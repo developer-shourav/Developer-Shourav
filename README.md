@@ -291,6 +291,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![A MERN Stack Developer](https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg)
 
-<img src='https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg' align='center' width ='100%'>
+<img src='https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg' align='center' width ='100%' height="400px">
 
 

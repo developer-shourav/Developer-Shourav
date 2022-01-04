@@ -1,5 +1,10 @@
+
+<!-----------HEADING----------------->
 <h1 align="center">Hi 👋, I'm Shourav Rajbongshi</h1>
+
+<!-----------TITELS----------------->
 <h3 align="center">A MERN Stack Developer</h3>
+<!-----------PROFILE VIEWERS-------------->
 
 <p align="left">
   <img
@@ -8,6 +13,8 @@
   />
 </p>
 
+<!-----------TROFFES----------------->
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
@@ -15,6 +22,8 @@
       alt="developer-shourav"
   /></a>
 </p>
+
+<!--------PRESENT PRIMARY INFO-------------->
 
 - 🔭 I’m currently working on [ModileZone BD](https://mobilezone-bd.web.app/)
 
@@ -33,8 +42,9 @@
 - 📫 How to reach me **ShouravRaj88@gmail.com**
 
 - 📄 Know about my experiences [Download My
-resume](https://drive.google.com/file/d/1CbwCmKVezfmjOhEISwigGxne-TTSX74Z/view?usp=sharing)
+  resume](https://drive.google.com/file/d/1CbwCmKVezfmjOhEISwigGxne-TTSX74Z/view?usp=sharing)
 
+<!-----------CONTACT INFO----------------->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,6 +65,8 @@ resume](https://drive.google.com/file/d/1CbwCmKVezfmjOhEISwigGxne-TTSX74Z/view?u
       width="40"
   /></a>
 </p>
+
+<!----------SKILLS----------------->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -206,6 +218,8 @@ resume](https://drive.google.com/file/d/1CbwCmKVezfmjOhEISwigGxne-TTSX74Z/view?u
   </a>
 </p>
 
+
+<!---------MOST USED LANGUAGES --------->
 <p>
   <img
     align="left"
@@ -214,6 +228,7 @@ resume](https://drive.google.com/file/d/1CbwCmKVezfmjOhEISwigGxne-TTSX74Z/view?u
   />
 </p>
 
+<!-- --------PROFILE STATUS---------- -->
 <p>
   &nbsp;<img
     align="center"
@@ -222,6 +237,7 @@ resume](https://drive.google.com/file/d/1CbwCmKVezfmjOhEISwigGxne-TTSX74Z/view?u
   />
 </p>
 
+<!-------------CONTRIBUTIONS---------- -->
 <p>
   <img
     align="center"
@@ -229,3 +245,52 @@ resume](https://drive.google.com/file/d/1CbwCmKVezfmjOhEISwigGxne-TTSX74Z/view?u
     alt="developer-shourav"
   />
 </p>
+
+
+
+<!-- Important linsk for git hub profile editing :
+Getting profile ideas : https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+Reandom readme.md generator : https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+best readme generatior. Whisch is suggested by procoder bd : https://arturssmirnovs.github.io/github-profile-readme-generator/
+
+
+For costomizing profile status : https://github.com/anuraghazra/github-readme-stats
+
+
+images
+-------------------
+top banner : https://image.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg
+
+
+bottom banner:https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg
+
+
+ -->
+
+
+
+
+ <h1 align ='center'>Hi there 👋,  I'm Shourav Rajbongshi
+ </h1>
+ <h2 align ='center'>A MERN Stack Developer </h2>
+ 
+![A MERN Stack Developer](https://image.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+
+
+
+
+- 🔭 I’m currently working on this page. 
+
+
+![A MERN Stack Developer](https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg)
+
+<img src='https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg' align='center' width ='100%'>
+
+

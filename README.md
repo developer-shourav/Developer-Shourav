@@ -276,7 +276,7 @@ bottom banner:https://image.freepik.com/free-photo/close-up-image-programer-work
  </h1>
  <h2 align ='center'>A MERN Stack Developer </h2>
  
-![A MERN Stack Developer](https://image.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg)
+<img src='https://github-img.netlify.app/banner.jpg' align='center' width ='100%' >
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -289,8 +289,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on this page. 
 
 
-![A MERN Stack Developer](https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg)
+<img src='https://github-img.netlify.app/footer.jpg' align='center' width ='100%' >
 
-<img src='https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg' align='center' width ='100%' height="400px">
+
 
 

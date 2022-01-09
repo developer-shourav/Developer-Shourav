@@ -225,13 +225,7 @@
 
 
 <!-- --------PROFILE STATUS---------- -->
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&locale=en"
-    alt="developer-shourav"
-  />
-</p>
+[![Developer-Shourav github status](https://github-readme-stats.vercel.app/api?username=Developer-Shourav&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-------------CONTRIBUTIONS---------- -->
 <p>

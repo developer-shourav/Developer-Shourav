@@ -4,6 +4,8 @@
 
 <!-----------TITELS----------------->
 <h3 align="center">A MERN Stack Developer</h3>
+<!------- Banner image ----------->
+<img src='https://github-img.netlify.app/banner.jpg' align='center' width ='100%' >
 <!-----------PROFILE VIEWERS-------------->
 
 <p align="left">
@@ -46,25 +48,12 @@
 
 <!-----------CONTACT INFO----------------->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/developer-shourav" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="developer-shourav"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/developer.shourav" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="developer.shourav"
-      height="30"
-      width="40"
-  /></a>
-</p>
+
+## Connect with me:
+  
+  [<img src="https://img.icons8.com/fluency/60/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/developer-shourav/)  [<img src="https://img.icons8.com/color/60/000000/facebook-new.png"/>](https://www.facebook.com/developer.shourav)  [<img src="https://img.icons8.com/fluency/60/000000/domain.png"/>](https://dev-shourav-raj.web.app/)  [<img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png"/>](https://telegram.me/Developer_Shourav)  
+
+
 
 <!----------SKILLS----------------->
 
@@ -246,52 +235,11 @@
   />
 </p>
 
-
-
-<!-- Important linsk for git hub profile editing :
-Getting profile ideas : https://rahuldkjain.github.io/gh-profile-readme-generator/
-
-Reandom readme.md generator : https://rahuldkjain.github.io/gh-profile-readme-generator/
-
-best readme generatior. Whisch is suggested by procoder bd : https://arturssmirnovs.github.io/github-profile-readme-generator/
-
-
-For costomizing profile status : https://github.com/anuraghazra/github-readme-stats
-
-
-images
--------------------
-top banner : https://image.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg
-
-
-bottom banner:https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg
-
-
- -->
-
-
-
-
- <h1 align ='center'>Hi there 👋,  I'm Shourav Rajbongshi
- </h1>
- <h2 align ='center'>A MERN Stack Developer </h2>
- 
-<img src='https://github-img.netlify.app/banner.jpg' align='center' width ='100%' >
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-
-
-
-
-- 🔭 I’m currently working on this page. 
-
-
+<!-- Footer images -->
 <img src='https://github-img.netlify.app/footer.jpg' align='center' width ='100%' >
 
 
 
+<!-- ------------------ New all ------------------- -->
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+

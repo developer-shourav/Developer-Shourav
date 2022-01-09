@@ -20,10 +20,12 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=developer-shourav"
+      src="https://github-profile-trophy.vercel.app/?username=developer-shourav&theme=radical"
       alt="developer-shourav"
   /></a>
 </p>
+
+
 
 <!--------PRESENT PRIMARY INFO-------------->
 
@@ -189,22 +191,19 @@
     rel="noreferrer"
   >
     <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+      src="https://img.icons8.com/color/100/000000/adobe-illustrator--v1.png"
       alt="illustrator"
       width="40"
       height="40"
-    />
+      
   </a>
   
  
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
+    <img src="https://img.icons8.com/color/100/000000/adobe-photoshop--v1.png" alt="photoshop"
       width="40"
-      height="40"
-    />
+      height="40"/>
   </a>
   
  

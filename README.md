@@ -1,10 +1,10 @@
 
 <!-----------HEADING----------------->
-<h1 align="center">Hi <img
+<h1 align="center">Hi There<img
       src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif"
       width="40"
       height="40"
-    /> , I'm Shourav Rajbongshi</h1>
+    />,I'm Shourav Rajbongshi</h1>
 
 <!-----------TITELS----------------->
 <h3 align="center">A MERN Stack Developer</h3>

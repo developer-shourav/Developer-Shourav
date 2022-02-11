@@ -3,7 +3,6 @@
 <h1 align="center">Hi There<img
       src="https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif"
       width="40"
-      height="40"
     />,I'm Shourav Rajbongshi</h1>
 <!-- Hi Gif sourch:===== https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif -->
 <!-----------TITELS----------------->

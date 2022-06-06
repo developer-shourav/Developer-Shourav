@@ -40,29 +40,29 @@
 
 - 🤝 I’m looking for help with [Mukta Dental Care](https://muckta-dental-care-by-shourav-com.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [developer-shourav.com](https://dev-shourav-raj.web.app/)
+- 👨‍💻 All of my projects are available at [https://devevloper-shourav.web.app](https://devevloper-shourav.web.app/)
 
 - 📝 I regularly write articles on [Facebook](https://www.facebook.com/developer.shourav/)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **Developer.Shourav1@gmail.com**
+- 📫 How to reach me <a href="mailto:developer.shourav1@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
 
 - 📄 Know about my experiences [Download My
-  resume](https://drive.google.com/file/d/1CbwCmKVezfmjOhEISwigGxne-TTSX74Z/view?usp=sharing)
+  resume](https://drive.google.com/file/d/18H2V4FQS-zU-PCOcBHEPkxL4Lm1TU7Fv/view?usp=sharing)
 
 <!----------- MY CONTACT INFO----------------->
 
 
 ## Connect with me:
-  
+ <!--  
   [<img src="https://img.icons8.com/fluency/60/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/developer-shourav/) 
 
    [<img src="https://img.icons8.com/color/60/000000/facebook-new.png"/>](https://www.facebook.com/developer.shourav)  
    
    [<img src="https://img.icons8.com/fluency/60/000000/domain.png"/>](https://dev-shourav-raj.web.app/)  
    
-   [<img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png"/>](https://telegram.me/Developer_Shourav)  
+   [<img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png"/>](https://telegram.me/Developer_Shourav)   -->
  <p> 
 <a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/60/undefined/mail.png" alt="mailto:developer.shourav1@gmail.com" /></a>
 <a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/fluency/60/000000/linkedin-circled.png" alt="Linkedin-icon" /></a>

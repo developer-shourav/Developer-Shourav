@@ -56,9 +56,23 @@
 
 ## Connect with me:
   
-  [<img src="https://img.icons8.com/fluency/60/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/developer-shourav/)  [<img src="https://img.icons8.com/color/60/000000/facebook-new.png"/>](https://www.facebook.com/developer.shourav)  [<img src="https://img.icons8.com/fluency/60/000000/domain.png"/>](https://dev-shourav-raj.web.app/)  [<img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png"/>](https://telegram.me/Developer_Shourav)  
+  [<img src="https://img.icons8.com/fluency/60/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/developer-shourav/) 
 
-
+   [<img src="https://img.icons8.com/color/60/000000/facebook-new.png"/>](https://www.facebook.com/developer.shourav)  
+   
+   [<img src="https://img.icons8.com/fluency/60/000000/domain.png"/>](https://dev-shourav-raj.web.app/)  
+   
+   [<img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png"/>](https://telegram.me/Developer_Shourav)  
+ <p> 
+<a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/60/undefined/mail.png" alt="mailto:developer.shourav1@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/fluency/60/000000/linkedin-circled.png" alt="Linkedin-icon" /></a>
+<a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/000000/facebook-new.png" alt="Facebook-icon" /></a>
+<a href="https://developer-shourav.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/60/000000/domain.png" alt="https://developer-shourav.web.app" /></a>
+<a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/undefined/facebook-messenger--v1.png" alt="https://m.me/developer.shourav" /></a>
+<a href="https://api.whatsapp.com/send?phone=+8801932376388" target="_blank"><img src="https://img.icons8.com/color/60/undefined/whatsapp--v1.png" alt="https://api.whatsapp.com/send?phone=+8801932376388" /></a>
+<a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png" alt="https://telegram.me/Developer_Shourav" /></a>
+</p>
+             
 
 <!----------SKILLS----------------->
 
@@ -242,11 +256,7 @@
     alt="developer-shourav"  
   />
 </p>
+
+
 <!-- Footer images -->
 <img src='https://github-img.netlify.app/footer.jpg' align='center' width ='100%' >
-
-
-
-
-
-

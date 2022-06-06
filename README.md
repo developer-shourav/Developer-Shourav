@@ -40,7 +40,7 @@
 
 - 🤝 I’m looking for help with [Mukta Dental Care](https://muckta-dental-care-by-shourav-com.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://devevloper-shourav.web.app](https://devevloper-shourav.web.app/)
+- 👨‍💻 All of my projects are available at [https://developer-shourav.web.app](https://developer-shourav.web.app/)
 
 - 📝 I regularly write articles on [Facebook](https://www.facebook.com/developer.shourav/)
 

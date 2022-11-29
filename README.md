@@ -1,11 +1,11 @@
 
 <!-----------HEADING----------------->
 <h1 align="center"> <img
-      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/> Hi There, I'm Shourav Raj</h1>
+      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hi There, I'm Shourav Raj</h1>
 <!-- Hi Gif sourch:===== https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif -->
 <!-----------TITELS----------------->
 <h2 align="center">A MERN Stack Developer<img
-      src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/> </h2>
+      src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h2>
 <!------- Banner image ----------->
 <img src='https://github-img.netlify.app/banner.jpg' align='center' width ='100%' >
 <!-----------PROFILE VIEWERS-------------->
@@ -248,6 +248,7 @@
   />
 </p>
 <!---------MOST USED LANGUAGES --------->
+
 <p>
   <img
     align="left"
@@ -256,6 +257,6 @@
   />
 </p>
 
-
+<br>
 <!-- Footer images -->
 <img src='https://github-img.netlify.app/footer.jpg' align='center' width ='100%' >

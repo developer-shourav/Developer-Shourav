@@ -1,12 +1,11 @@
 
 <!-----------HEADING----------------->
-<h1 align="center">Hi There<img
-      src="https://camo.githubusercontent.com/872eb33617213e26afef61f423f6debf521ce541d05c0116097b452777869999/687474703a2f2f692e67697068792e636f6d2f5457364d3572306e63424863512e676966"
-      width="80"
-    />I'm Shourav Rajbongshi</h1>
+<h1 align="center"> <img
+      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/> Hi There, I'm Shourav Raj</h1>
 <!-- Hi Gif sourch:===== https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif -->
 <!-----------TITELS----------------->
-<h3 align="center">A MERN Stack Developer</h3>
+<h2 align="center">A MERN Stack Developer<img
+      src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/> </h2>
 <!------- Banner image ----------->
 <img src='https://github-img.netlify.app/banner.jpg' align='center' width ='100%' >
 <!-----------PROFILE VIEWERS-------------->

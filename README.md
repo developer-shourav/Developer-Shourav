@@ -1,7 +1,7 @@
 
 <!-----------HEADING----------------->
 <h1 align="center"> <img
-      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there, I am Shourav Raj</h1>
+      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/> Hello there,   I am Shourav Raj</h1>
 <!-- Hi Gif sourch:===== https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif -->
 <!-----------TITELS----------------->
 <h2 align="center">A MERN Stack Developer<img

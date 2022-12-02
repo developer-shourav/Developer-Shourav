@@ -6,8 +6,10 @@
 <!-----------TITELS----------------->
 <h2 align="center">A MERN Stack Developer<img
       src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h2>
+      
 <!------- Banner image ----------->
-<img src='https://github-img.netlify.app/banner.jpg' align='center' width ='100%' >
+<!-- <img src='https://github-img.netlify.app/banner.jpg' align='center' width ='100%' > -->
+![Developer-shourav-Banner](./assests/banner.png)
 <!-----------PROFILE VIEWERS-------------->
 
 <p align="left">

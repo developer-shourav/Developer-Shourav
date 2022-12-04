@@ -57,14 +57,6 @@
 
 
 ## Connect with me:
- <!--  
-  [<img src="https://img.icons8.com/fluency/60/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/developer-shourav/) 
-
-   [<img src="https://img.icons8.com/color/60/000000/facebook-new.png"/>](https://www.facebook.com/developer.shourav)  
-   
-   [<img src="https://img.icons8.com/fluency/60/000000/domain.png"/>](https://dev-shourav-raj.web.app/)  
-   
-   [<img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png"/>](https://telegram.me/Developer_Shourav)   -->
 
    [![Developer-shourav's portfolio](https://img.icons8.com/fluency/60/000000/domain.png)](https://developer-shourav.web.app)
    

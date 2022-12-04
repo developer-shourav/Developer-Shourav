@@ -273,5 +273,7 @@
 <!-------------CONTRIBUTIONS---------- -->
 [![Developer-shourav GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=developer-shourav&theme=radical&border_radius=6" width=100%>
 <!-- Footer images -->
 ![Developer-Shourav footer img](https://i.ibb.co/bsPLW1r/developer-shourav-github-footer.png)

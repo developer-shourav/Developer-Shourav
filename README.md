@@ -263,20 +263,14 @@
       height="60"
     />
 </p>
+<!---------MOST USED LANGUAGES --------->
+
+  [![developer-shourav Most uses language](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-shourav)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- --------PROFILE STATUS---------- -->
 
 [![Developer-Shourav github status](https://github-readme-stats.vercel.app/api?username=Developer-Shourav&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-------------CONTRIBUTIONS---------- -->
 [![Developer-shourav GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats)
-<!---------MOST USED LANGUAGES --------->
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-shourav&show_icons=true&locale=en&layout=compact"
-    alt="developer-shourav"  
-  />
-</p>
-
-<br>
 <!-- Footer images -->

@@ -8,7 +8,7 @@
       src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h2>
       
 <!------- Banner image ----------->
-![Developer-shourav-Banner](./assests/banner.png)
+![Developer-shourav-Banner](https://i.ibb.co/qjDQnFQ/developer-shourav-ghithub-banner.png)
 <!-----------PROFILE VIEWERS-------------->
 
 <p align="left">

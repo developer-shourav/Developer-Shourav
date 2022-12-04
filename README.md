@@ -49,7 +49,7 @@
 - 📫 How to reach me <a href="mailto:developer.shourav1@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
 
 - 📄 Know about my experiences [Download My
-  resume](https://drive.google.com/file/d/18H2V4FQS-zU-PCOcBHEPkxL4Lm1TU7Fv/view?usp=sharing)
+  resume](https://drive.google.com/file/d/1eDFl3gqaZ__qqpjLnm06siIDPL9WpRum/view?usp=sharing)
 
 <!----------- MY CONTACT INFO----------------->
 

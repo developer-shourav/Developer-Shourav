@@ -71,45 +71,45 @@
  
 <!----------SKILLS----------------->
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/100/000000/javascript--v1.png"alt="javaScript"
-      width="40"
-      height="40"/>
+      width="60"
+      height="60"/>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
     <img src="https://img.icons8.com/color/100/000000/typescript.png"
     alt="typescript"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/100/000000/bootstrap.png"alt="Bootstrap"
-      width="40"
-      height="40"/>
+      width="60"
+      height="60"/>
   </a>
    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="sass"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   
   </a>
@@ -117,68 +117,68 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/480px-Tailwind_CSS_Logo.svg.png"
       alt="tailwind"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/100/000000/material-ui.png"
    alt="materialUI"
-      width="40"
-      height="40"/>
+      width="60"
+      height="60"/>
   
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://blog.leonhassan.co.uk/content/images/2019/01/react-1.svg"
       alt="react native"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   
@@ -186,15 +186,15 @@
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
   alt="netlify"
-      width="40"
-      height="40"/>
+      width="60"
+      height="60"/>
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
       alt="heroku"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a
@@ -205,8 +205,8 @@
     <img
       src="https://img.icons8.com/color/100/000000/adobe-illustrator--v1.png"
       alt="illustrator"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
       
   </a>
   
@@ -214,8 +214,8 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/100/000000/adobe-photoshop--v1.png" alt="photoshop"
-      width="40"
-      height="40"/>
+      width="60"
+      height="60"/>
   </a>
   
  
@@ -224,8 +224,8 @@
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
 </p>
 

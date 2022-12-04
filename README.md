@@ -255,6 +255,3 @@
 
 <br>
 <!-- Footer images -->
-<p> 
-<br>
-<img src='https://github-img.netlify.app/footer.jpg' align='center' width ='100%' ></p>

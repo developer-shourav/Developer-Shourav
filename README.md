@@ -273,7 +273,21 @@
 <!-------------CONTRIBUTIONS---------- -->
 [![Developer-shourav GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats)
-<img src="https://streak-stats.demolab.com?user=developer-shourav&theme=radical&border_radius=6" width=100%>
+
+<!-- ======================Extra exmaple================== -->
+<!---------MOST USED LANGUAGES --------->
+
+  [![developer-shourav Most uses language](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-shourav)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- --------PROFILE STATUS---------- -->
+
+[![Developer-Shourav github status](https://github-readme-stats.vercel.app/api?username=Developer-Shourav&show_icons=true&theme=radical)](https://github.com/developer-shourav/github-readme-stats)
+<!-------------CONTRIBUTIONS---------- -->
+[![Developer-shourav GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats)
+
+
+
+
+
 <!-- Footer images -->
 ![Developer-Shourav footer img](https://i.ibb.co/bsPLW1r/developer-shourav-github-footer.png)

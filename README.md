@@ -43,7 +43,7 @@
 
 - 👨‍💻 All of my projects are available at [https://developer-shourav.web.app](https://developer-shourav.web.app/)
 
-- 📝 I regularly write articles on [Facebook](https://www.facebook.com/developer.shourav/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/developer.shourav)
 
 - 💬 Ask me about **React**
 
@@ -70,7 +70,7 @@
 <a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/000000/facebook-new.png" alt="Facebook-icon" /></a>
 <a href="https://developer-shourav.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/60/000000/domain.png" alt="https://developer-shourav.web.app" /></a>
 <a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/undefined/facebook-messenger--v1.png" alt="https://m.me/developer.shourav" /></a>
-<a href="https://api.whatsapp.com/send?phone=+8801932376388" target="_blank"><img src="https://img.icons8.com/color/60/undefined/whatsapp--v1.png" alt="https://api.whatsapp.com/send?phone=+8801932376388" /></a>
+<a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/60/undefined/whatsapp--v1.png" alt="https://wa.me/+8801932376388" /></a>
 <a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png" alt="https://telegram.me/Developer_Shourav" /></a>
 </p>
              

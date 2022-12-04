@@ -44,11 +44,9 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/developer-shourav)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about ***React***
 
 - 📫 How to reach me <a href="mailto:developer.shourav1@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
-
- 
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1eDFl3gqaZ__qqpjLnm06siIDPL9WpRum/view?usp=sharing" target="_blnk" >Download My
   resume</a>
@@ -265,21 +263,11 @@
 </p>
 <!---------MOST USED LANGUAGES --------->
 
-  [![developer-shourav Most uses language](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-shourav)](https://github.com/anuraghazra/github-readme-stats)
-
+[![developer-shourav Most uses language](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-shourav)](https://github.com/developer-shourav/github-readme-stats)
 <!-- --------PROFILE STATUS---------- -->
-
-[![Developer-Shourav github status](https://github-readme-stats.vercel.app/api?username=Developer-Shourav&show_icons=true&theme=radical)](https://github.com/developer-shourav/github-readme-stats)
+[![Developer-Shourav github status](https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical)](https://github.com/developer-shourav/github-readme-stats)
 <!-------------CONTRIBUTIONS---------- -->
 [![Developer-shourav GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats)
-
-
-<!-- ======================Extra exmaple================== -->
-<!---------MOST USED LANGUAGES , PROFILE STATUS, CONTRIBUTIONS  --------->
- <a href="https://github.com/developer-shourav/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Developer-Shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status"> </a>
-<a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak"> </a><a href="https://github.com/developer-shourav/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-shourav" alt="developer-shourav Most uses language"> </a>
-
-
 
 <!-- Footer images -->
 ![Developer-Shourav footer img](https://i.ibb.co/bsPLW1r/developer-shourav-github-footer.png)

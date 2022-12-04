@@ -58,10 +58,6 @@
 
 ## Connect with me:
 
-   [![Developer-shourav's portfolio](https://img.icons8.com/fluency/60/000000/domain.png)](https://developer-shourav.web.app)
-   
-   [![Developer-shourav's portfolio](https://img.icons8.com/fluency/60/000000/domain.png)](https://developer-shourav.web.app)
-
  <p> 
 <a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/60/undefined/mail.png" alt="mailto:developer.shourav1@gmail.com" /></a>
 

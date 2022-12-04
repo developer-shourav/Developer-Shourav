@@ -67,8 +67,7 @@
 <a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png" alt="https://telegram.me/Developer_Shourav" /></a>
 <a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/undefined/facebook-messenger--v1.png" alt="https://m.me/developer.shourav" /></a>
 <a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/000000/facebook-new.png" alt="Facebook-icon" /></a>
-</p>
- 
+</p> 
 <!----------SKILLS----------------->
 
 ## Languages and Tools:
@@ -111,7 +110,6 @@
       width="60"
       height="60"
     />
-  
   </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
@@ -126,7 +124,6 @@
    alt="materialUI"
       width="60"
       height="60"/>
-  
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -179,14 +176,14 @@
       height="60"
     />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
+      alt="github"
       width="60"
       height="60"
     />
-  </a>
+  </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -195,8 +192,30 @@
       height="60"
     />
   </a>
-  
-  
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
+      alt="visualstudio_code"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
+      alt="npmjs"
+      width="50"
+      height="50"
+    />
+  </a>
+   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="60"
+      height="60"
+    />
+  </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
   alt="netlify"
@@ -223,21 +242,23 @@
       height="60"
       
   </a>
-  
- 
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/100/000000/adobe-photoshop--v1.png" alt="photoshop"
       width="60"
       height="60"/>
   </a>
-  
- 
-  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
+      width="60"
+      height="60"
+    />
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"
+      alt="canva"
       width="60"
       height="60"
     />

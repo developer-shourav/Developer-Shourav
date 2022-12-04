@@ -269,7 +269,7 @@
 
 <!-- --------PROFILE STATUS---------- -->
 
-[![Developer-Shourav github status](https://github-readme-stats.vercel.app/api?username=Developer-Shourav&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Developer-Shourav github status](https://github-readme-stats.vercel.app/api?username=Developer-Shourav&show_icons=true&theme=radical)](https://github.com/developer-shourav/github-readme-stats)
 <!-------------CONTRIBUTIONS---------- -->
 [![Developer-shourav GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats)
 

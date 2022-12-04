@@ -2,13 +2,12 @@
 <!-----------HEADING----------------->
 <h1 align="center"> <img
       src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there, I am Shourav Raj</h1>
-<!-- Hi Gif sourch:===== https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif https://gist.githubusercontent.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif -->
+
 <!-----------TITELS----------------->
 <h2 align="center">A MERN Stack Developer<img
       src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h2>
       
 <!------- Banner image ----------->
-<!-- <img src='https://github-img.netlify.app/banner.jpg' align='center' width ='100%' > -->
 ![Developer-shourav-Banner](./assests/banner.png)
 <!-----------PROFILE VIEWERS-------------->
 
@@ -43,7 +42,7 @@
 
 - 👨‍💻 All of my projects are available at [https://developer-shourav.web.app](https://developer-shourav.web.app/)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/developer.shourav)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/developer-shourav)
 
 - 💬 Ask me about **React**
 
@@ -66,7 +65,7 @@
    [<img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png"/>](https://telegram.me/Developer_Shourav)   -->
 
    [![Developer-shourav's portfolio](https://img.icons8.com/fluency/60/000000/domain.png)](https://developer-shourav.web.app)
-
+   
    [![Developer-shourav's portfolio](https://img.icons8.com/fluency/60/000000/domain.png)](https://developer-shourav.web.app)
 
  <p> 

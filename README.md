@@ -51,7 +51,7 @@
 - 📄 Know about my experiences [Download My
   resume](https://drive.google.com/file/d/1eDFl3gqaZ__qqpjLnm06siIDPL9WpRum/view?usp=sharing) 
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1eDFl3gqaZ__qqpjLnm06siIDPL9WpRum/view?usp=sharing">Download My
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1eDFl3gqaZ__qqpjLnm06siIDPL9WpRum/view?usp=sharing" target="_blnk" >Download My
   resume</a>
 
 <!----------- MY CONTACT INFO----------------->

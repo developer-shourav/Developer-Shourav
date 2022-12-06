@@ -272,5 +272,4 @@
 [![Developer-shourav GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats)
 
 <!-- Footer image first-->
-![Developer-Shourav footer img](https://i.ibb.co/NNfm1wH/developer-shourav-github-footer-Fast.png)
 ![Developer-Shourav footer grettings img](https://i.ibb.co/bsPLW1r/developer-shourav-github-footer.png)

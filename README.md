@@ -11,7 +11,7 @@
 ![Developer-shourav-Banner](https://i.ibb.co/qjDQnFQ/developer-shourav-ghithub-banner.png)
 <!-----------PROFILE VIEWERS-------------->
 
-<p align="left">
+<p align="center" width>
   <img
     src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat"
     alt="developer-shourav"
@@ -20,7 +20,7 @@
 
 <!-----------TROFFES----------------->
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=developer-shourav&theme=radical"
@@ -56,7 +56,7 @@
 
 ## Connect with me:
 
- <p> 
+<p align="center"> 
 <a href="https://developer-shourav.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/60/000000/domain.png" alt="https://developer-shourav.web.app" /></a>
 <a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/fluency/60/000000/linkedin-circled.png" alt="Linkedin-icon" /></a>
 <a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/60/undefined/mail.png" alt="mailto:developer.shourav1@gmail.com" /></a>
@@ -69,7 +69,7 @@
 <!----------SKILLS----------------->
 
 ## Languages and Tools:
-<p align="left">
+<p align="center">
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -257,8 +257,8 @@
     <img
       src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"
       alt="canva"
-      width="60"
-      height="60"
+      width="50"
+      height="50"
     />
 </p>
 

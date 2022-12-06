@@ -261,6 +261,8 @@
       height="60"
     />
 </p>
+
+![Developer-Shourav footer img](https://i.ibb.co/NNfm1wH/developer-shourav-github-footer-Fast.png)
 <!---------MOST USED LANGUAGES --------->
 
 [![developer-shourav Most uses language](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-shourav)](https://github.com/developer-shourav/github-readme-stats)
@@ -270,4 +272,5 @@
 [![Developer-shourav GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats)
 
 <!-- Footer images -->
-![Developer-Shourav footer img](https://i.ibb.co/bsPLW1r/developer-shourav-github-footer.png)
+
+![Developer-Shourav footer grettings img](https://i.ibb.co/bsPLW1r/developer-shourav-github-footer.png)

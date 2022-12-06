@@ -1,25 +1,34 @@
 
-<!-----------HEADING----------------->
+<!-- ============================================================
+                             HEADING
+============================================================== -->
 <h1 align="center"> <img
       src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there, I am Shourav Raj</h1>
 
-<!-----------TITELS----------------->
+<!-- ============================================================
+                             TITLE
+=============================================================== -->
 <h2 align="center">A MERN Stack Developer<img
       src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h2>
       
-<!------- Banner image ----------->
+<!-- ============================================================
+                      PROFILE BANNER IMAGE
+============================================================== -->
 ![Developer-shourav-Banner](https://i.ibb.co/qjDQnFQ/developer-shourav-ghithub-banner.png)
-<!-----------PROFILE VIEWERS-------------->
 
+<!-- ============================================================
+                      PROFILE VIEWER
+============================================================== -->
 <p align="center">
-  <img
+  <img width="25%"
     src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat"
     alt="developer-shourav"
   />
 </p>
 
-<!-----------TROFFES----------------->
-
+<!-- ============================================================
+                       TROFFES
+============================================================== -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
@@ -29,8 +38,10 @@
 </p>
 
 
+<!-- ============================================================
+                       PRESENT PRIMARY INFO
+============================================================== -->
 
-<!--------PRESENT PRIMARY INFO-------------->
 
 - 🔭 I’m currently working on [ModileZone BD](https://mobilezone-bd.web.app/)
 
@@ -51,8 +62,9 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1eDFl3gqaZ__qqpjLnm06siIDPL9WpRum/view?usp=sharing" target="_blnk" >Download My
   resume</a>
 
-<!----------- MY CONTACT INFO----------------->
-
+<!-- ============================================================
+                       MY CONTACT INFO
+============================================================== -->
 
 ## Connect with me:
 
@@ -66,7 +78,10 @@
 <a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/undefined/facebook-messenger--v1.png" alt="https://m.me/developer.shourav" /></a>
 <a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/000000/facebook-new.png" alt="Facebook-icon" /></a>
 </p> 
-<!----------SKILLS----------------->
+
+<!-- ============================================================
+                       MY SKILLS INFO
+============================================================== -->
 
 ## Languages and Tools:
 <p align="center">
@@ -262,21 +277,26 @@
 </p>
 <br>
 <br>
+<!-- ============================================================
+                       FIRST FOOTER BANNER
+===============================================================-->
 
 ![Developer-Shourav footer img](https://i.ibb.co/NNfm1wH/developer-shourav-github-footer-Fast.png)
-<!---------MOST USED LANGUAGES --------->
 
-<!-- [![developer-shourav Most uses language](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-shourav)](https://github.com/developer-shourav/github-readme-stats) -->
-<!-- --------PROFILE STATUS---------- --> 
-<!-- [![Developer-Shourav github status](https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical)](https://github.com/developer-shourav/github-readme-stats) -->
-<p align="center" width="100">
- <a href="https://github.com/developer-shourav/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" /> </a>
+<!-- ============================================================
+                DEVELOPER SHOURAV'S GITHUB STATS
+============================================================== -->
+<p align="center" >
+ <a href="https://github.com/developer-shourav/github-readme-stats"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" /> </a>
 <p>
+<!-- ============================================================
+                DEVELOPER SHOURAV'S GITHUB STREAK
+============================================================== -->
 <p align="center" >
  <a  href="https://git.io/streak-stats"> <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" /> </a>
 <p>
+<!-- ============================================================
+                        FOOTER BANNER
+============================================================== -->
 
-<!-- [![Developer-shourav GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats) -->
-
-<!-- Footer image first-->
 ![Developer-Shourav footer grettings img](https://i.ibb.co/bsPLW1r/developer-shourav-github-footer.png)

@@ -269,11 +269,11 @@
 <!-- [![developer-shourav Most uses language](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-shourav)](https://github.com/developer-shourav/github-readme-stats) -->
 <!-- --------PROFILE STATUS---------- --> 
 <!-- [![Developer-Shourav github status](https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical)](https://github.com/developer-shourav/github-readme-stats) -->
-<p align="center" width="100%">
+<p align="center" width="100">
  <a href="https://github.com/developer-shourav/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" /> </a>
 <p>
-<p align="center" width="100%">
- <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" /> </a>
+<p align="center" >
+ <a  href="https://git.io/streak-stats"> <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" /> </a>
 <p>
 
 <!-- [![Developer-shourav GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats) -->

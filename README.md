@@ -20,7 +20,7 @@
                       PROFILE VIEWER
 ============================================================== -->
 <p align="center">
-  <img width="25%"
+  <img 
     src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat"
     alt="developer-shourav"
   />
@@ -287,7 +287,7 @@
                 DEVELOPER SHOURAV'S GITHUB STATS
 ============================================================== -->
 <p align="center" >
- <a href="https://github.com/developer-shourav/github-readme-stats"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" /> </a>
+ <a href="https://github.com/developer-shourav/github-readme-stats"> <img width="100%" height="75%" src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" /> </a>
 <p>
 <!-- ============================================================
                 DEVELOPER SHOURAV'S GITHUB STREAK

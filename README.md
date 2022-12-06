@@ -11,7 +11,7 @@
 ![Developer-shourav-Banner](https://i.ibb.co/qjDQnFQ/developer-shourav-ghithub-banner.png)
 <!-----------PROFILE VIEWERS-------------->
 
-<p align="center" width>
+<p align="center" width="1000px">
   <img
     src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat"
     alt="developer-shourav"
@@ -240,7 +240,6 @@
       height="60"
       
   </a>
-  </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/100/000000/adobe-photoshop--v1.png" alt="photoshop"
       width="60"
@@ -261,6 +260,8 @@
       height="50"
     />
 </p>
+<br>
+<br>
 
 ![Developer-Shourav footer img](https://i.ibb.co/NNfm1wH/developer-shourav-github-footer-Fast.png)
 <!---------MOST USED LANGUAGES --------->

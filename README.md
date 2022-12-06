@@ -19,8 +19,8 @@
 <!-- ============================================================
                       PROFILE VIEWER
 ============================================================== -->
-<p align="center" width="25%">
-  <img 
+<p align="center" >
+  <img width="25%"
     src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat"
     alt="developer-shourav"
   />

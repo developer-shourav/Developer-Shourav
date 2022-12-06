@@ -11,7 +11,7 @@
 ![Developer-shourav-Banner](https://i.ibb.co/qjDQnFQ/developer-shourav-ghithub-banner.png)
 <!-----------PROFILE VIEWERS-------------->
 
-<p align="center" width="1000px">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat"
     alt="developer-shourav"
@@ -269,6 +269,9 @@
 <!-- [![developer-shourav Most uses language](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-shourav)](https://github.com/developer-shourav/github-readme-stats) -->
 <!-- --------PROFILE STATUS---------- --> 
 [![Developer-Shourav github status](https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical)](https://github.com/developer-shourav/github-readme-stats)
+<p align="center">
+ <a href="https://github.com/developer-shourav/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" /> </a>
+<p>
 
 [![Developer-shourav GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6)](https://git.io/streak-stats)
 

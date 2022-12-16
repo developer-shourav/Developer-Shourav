@@ -20,17 +20,11 @@
                        PROFILE VIEWER
 ============================================================== -->
 <p align="center" >
-  <img width="25%"
+  <img width="20%"
     src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat"
     alt="developer-shourav"
   />
 </p>
-
-<p align="center">
-<img 
-   src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat" alt="developer-shourav" />
-</p>
-
 <!-- ============================================================
                         TROFFES
 ============================================================== -->

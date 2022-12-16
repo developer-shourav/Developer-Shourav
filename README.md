@@ -26,6 +26,11 @@
   />
 </p>
 
+<p align="center">
+<img 
+   src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat" alt="developer-shourav" />
+</p>
+
 <!-- ============================================================
                         TROFFES
 ============================================================== -->
@@ -176,7 +181,7 @@
     />
      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://i.ibb.co/DRCBB60/express.png"
       alt="expressjs"
       width="60"
       height="60"

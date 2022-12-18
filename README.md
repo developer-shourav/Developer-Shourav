@@ -16,15 +16,7 @@
 ============================================================== -->
 ![Developer-shourav-Banner](https://i.ibb.co/qjDQnFQ/developer-shourav-ghithub-banner.png)
 
-<!-- ============================================================
-                       PROFILE VIEWER
-============================================================== -->
-<p align="center" >
-  <img width="20%"
-    src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat"
-    alt="developer-shourav"
-  />
-</p>
+
 <!-- ============================================================
                         TROFFES
 ============================================================== -->
@@ -35,7 +27,15 @@
       alt="developer-shourav"
   /></a>
 </p>
-
+<!-- ============================================================
+                       PROFILE VIEWER
+============================================================== -->
+<p  >
+  <img width="200px"
+    src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat"
+    alt="developer-shourav"
+  />
+</p>
 
 <!-- ============================================================
                   PRESENT PRIMARY INFO

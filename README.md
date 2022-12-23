@@ -100,18 +100,18 @@
       height="60"
     />
     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/100/000000/javascript--v1.png"alt="javaScript"
+    <img src="https://img.icons8.com/color/100/null/javascript--v1.png"alt="javaScript"
       width="60"
       height="60"/>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
-    <img src="https://img.icons8.com/color/100/000000/typescript.png"
+    <img src="https://img.icons8.com/color/100/null/typescript.png"
     alt="typescript"
       width="60"
       height="60"
     />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/100/000000/bootstrap.png"alt="Bootstrap"
+    <img src="https://img.icons8.com/color/100/null/bootstrap.png"alt="Bootstrap"
       width="60"
       height="60"/>
   </a>
@@ -132,7 +132,7 @@
     />
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/color/100/000000/material-ui.png"
+   <img src="https://img.icons8.com/color/100/null/material-ui.png"
    alt="materialUI"
       width="60"
       height="60"/>
@@ -229,7 +229,7 @@
     />
   </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
   alt="netlify"
       width="60"
       height="60"/>
@@ -248,14 +248,14 @@
     rel="noreferrer"
   >
     <img
-      src="https://img.icons8.com/color/100/000000/adobe-illustrator--v1.png"
+      src="https://img.icons8.com/color/100/null/adobe-illustrator--v1.png"
       alt="illustrator"
       width="60"
       height="60"
       
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/100/000000/adobe-photoshop--v1.png" alt="photoshop"
+    <img src="https://img.icons8.com/color/100/null/adobe-photoshop--v1.png" alt="photoshop"
       width="60"
       height="60"/>
   </a>

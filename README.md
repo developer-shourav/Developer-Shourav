@@ -58,7 +58,7 @@
 
 - 📫 How to reach me <a href="mailto:developer.shourav1@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1eDFl3gqaZ__qqpjLnm06siIDPL9WpRum/view?usp=sharing" target="_blnk" >Download My
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11bI7iWEpeg5-WLUKDxUOqx5nLlQFZqi8/view?usp=sharing" target="_blnk" >Download My
   resume</a>
 
 <!-- ============================================================
@@ -68,14 +68,14 @@
 ## Connect with me:
 
 <p align="center"> 
-<a href="https://developer-shourav.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/60/000000/domain.png" alt="https://developer-shourav.web.app" /></a>
-<a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/fluency/60/000000/linkedin-circled.png" alt="Linkedin-icon" /></a>
+<a href="https://developer-shourav.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/60/null/domain.png" alt="https://developer-shourav.web.app" /></a>
+<a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/fluency/60/null/linkedin-circled.png" alt="Linkedin-icon" /></a>
 <a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/60/undefined/mail.png" alt="mailto:developer.shourav1@gmail.com" /></a>
 <a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/60/undefined/whatsapp--v1.png" alt="https://wa.me/+8801932376388" /></a>
 <a href="https://join.skype.com/invite/pem7MobNeCzH" target="_blank"><img src="https://img.icons8.com/color/60/undefined/skype--v1.png" alt="https://join.skype.com/invite/pem7MobNeCzH" /></a>
-<a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/60/000000/telegram-app--v1.png" alt="https://telegram.me/Developer_Shourav" /></a>
+<a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/60/null/telegram-app--v1.png" alt="https://telegram.me/Developer_Shourav" /></a>
 <a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/undefined/facebook-messenger--v1.png" alt="https://m.me/developer.shourav" /></a>
-<a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/000000/facebook-new.png" alt="Facebook-icon" /></a>
+<a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/null/facebook-new.png" alt="Facebook-icon" /></a>
 </p> 
 
 <!-- ============================================================

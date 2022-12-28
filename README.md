@@ -9,7 +9,7 @@
 <!-- ============================================================
                              TITLE
 =============================================================== -->
-## <h2 align="center">[![developer-shourav](https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=D41953&width=410&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer)](https://git.io/typing-svg)</h2>
+## <h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=D41953&center=true&width=410&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer)](https://git.io/typing-svg)</h2>
       
 <!-- ============================================================
                       PROFILE BANNER IMAGE

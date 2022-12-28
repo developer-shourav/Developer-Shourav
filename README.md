@@ -3,13 +3,14 @@
                              HEADING
 ============================================================== -->
 <h1 align="center"> <img
-      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there, I am Shourav Raj</h1>
+      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there, I am Shourav Raj <img
+      src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h1>
 
 <!-- ============================================================
                              TITLE
 =============================================================== -->
-<h2 align="center">A MERN Stack Developer<img
-      src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h2>
+## <h2 align="center">[![Developer-shourav](https://readme-typing-svg.demolab.com?font=arial&weight=900&size=24&pause=1000&color=000E64&width=290&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer)](https://git.io/typing-svg) 
+</h2>
       
 <!-- ============================================================
                       PROFILE BANNER IMAGE

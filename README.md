@@ -285,14 +285,15 @@
 <!-- ============================================================
                 DEVELOPER SHOURAV'S GITHUB STATS
 ============================================================== -->
-<p align="center" >
+<!-- <p align="center" >
  <a href="https://github.com/developer-shourav/github-readme-stats"> <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" /> </a>
-<p>
+<p> -->
 <!-- ============================================================
                 DEVELOPER SHOURAV'S GITHUB STREAK
 ============================================================== -->
 <p align="center" >
- <a  href="https://git.io/streak-stats"> <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" /> </a>
+<a href="https://github.com/developer-shourav/github-readme-stats"> <img   src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" /> </a>
+ <a  href="https://git.io/streak-stats"> <img  src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" /> </a>
 <p>
 <!-- ============================================================
                         FOOTER BANNER

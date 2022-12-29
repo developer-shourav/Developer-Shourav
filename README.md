@@ -9,7 +9,7 @@
 <!-- ============================================================
                              TITLE
 =============================================================== -->
-## <h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=D41953&center=true&width=410&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer)](https://git.io/typing-svg)</h2>
+## <h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=D41953&center=true&width=410&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer)](https://developer-shourav.web.app)</h2>
       
 <!-- ============================================================
                       PROFILE BANNER IMAGE
@@ -21,7 +21,7 @@
                         TROFFES
 ============================================================== -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
+  <a href="https://developer-shourav.web.app" target="_blank"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=developer-shourav&theme=radical"
       alt="developer-shourav"
@@ -286,13 +286,13 @@
                 DEVELOPER SHOURAV'S GITHUB STATS
 ============================================================== -->
 <p align="center" >
- <a href="https://github.com/developer-shourav/github-readme-stats"> <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" /> </a>
+ <a href="https://developer-shourav.web.app" target="_blank"> <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" /> </a>
 <p>
 <!-- ============================================================
                 DEVELOPER SHOURAV'S GITHUB STREAK
 ============================================================== -->
 <p align="center" >
- <a  href="https://git.io/streak-stats"> <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" /> </a>
+ <a  href="https://developer-shourav.web.app" target="_blank" > <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" /> </a>
 <p>
 <!-- ============================================================
                         FOOTER BANNER

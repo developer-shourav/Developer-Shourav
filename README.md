@@ -280,7 +280,7 @@
                        FIRST FOOTER BANNER
 ===============================================================-->
 
-![Developer-Shourav footer img](https://i.ibb.co/NNfm1wH/developer-shourav-github-footer-Fast.png)
+
 
 <!-- ============================================================
                 DEVELOPER SHOURAV'S GITHUB STATS

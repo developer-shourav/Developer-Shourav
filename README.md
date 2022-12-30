@@ -279,8 +279,9 @@
 <!-- ============================================================
                        FIRST FOOTER BANNER
 ===============================================================-->
-
-
+<p align="center" >
+ <a href="https://developer-shourav.web.app" target="_blank"> <img  src="https://i.ibb.co/NNfm1wH/developer-shourav-github-footer-Fast.png" alt="Developer-Shourav-web-contact-banner" /> </a>
+<p>
 
 <!-- ============================================================
                 DEVELOPER SHOURAV'S GITHUB STATS

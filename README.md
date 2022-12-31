@@ -206,7 +206,7 @@
   </a>
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
+      src="https://img.icons8.com/color/144/null/visual-studio-code-2019.png"
       alt="visualstudio_code"
       width="50"
       height="50"

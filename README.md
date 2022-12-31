@@ -208,8 +208,8 @@
     <img
       src="https://img.icons8.com/color/144/null/visual-studio-code-2019.png"
       alt="visualstudio_code"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
@@ -268,10 +268,10 @@
     />
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"
+       src="https://img.icons8.com/fluency/144/null/canva.png"
       alt="canva"
-      width="50"
-      height="50"
+      width="60"
+      height="60"
     />
 </p>
 <br>

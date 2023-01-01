@@ -182,7 +182,7 @@
     />
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+     src="https://img.icons8.com/color/144/null/mongodb.png"
       alt="mongodb"
       width="60"
       height="60"

@@ -168,7 +168,7 @@
     />
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://img.icons8.com/fluency/144/null/node-js.png"
       alt="nodejs"
       width="60"
       height="60"

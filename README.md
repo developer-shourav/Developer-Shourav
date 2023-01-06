@@ -58,7 +58,7 @@
 
 - 📫 How to reach me <a href="mailto:developer.shourav1@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11bI7iWEpeg5-WLUKDxUOqx5nLlQFZqi8/view?usp=sharing" target="_blnk" >Download My
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11bI7iWEpeg5-WLUKDxUOqx5nLlQFZqi8/view?usp=sharing" target="_blank" >Download My
   resume</a>
 
 <!-- ============================================================
@@ -198,11 +198,11 @@
   </a> 
   <a href="https://developer-shourav" target="_blank" rel="noreferrer">
     <img
-      src="https://img.icons8.com/officel/80/000000/markdown.png"
+      src="https://i.ibb.co/1z7FSvN/makdown.png"
       alt="Readme.md icons"
       width="60"
-      height="60"
-    />
+      height="70"
+    />  
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
@@ -223,8 +223,16 @@
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
-      alt="npmjs"
+      alt="npm"
       width="50"
+      height="50"
+    />
+  </a>
+   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://i.ibb.co/W3SRnN0/yarn-full.png"
+      alt="yarn logo"
+      width="100"
       height="50"
     />
   </a>

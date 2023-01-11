@@ -14,7 +14,7 @@
 <!-- ============================================================
                       PROFILE BANNER IMAGE
 ============================================================== -->
-![Developer-shourav-Banner](https://i.ibb.co/qjDQnFQ/developer-shourav-ghithub-banner.png)
+![Developer-shourav-Banner](https://i.ibb.co/VJbgYZC/developer-shourav-ghithub-banner-compressed.png)
 
 
 <!-- ============================================================
@@ -284,7 +284,7 @@
                        FIRST FOOTER BANNER
 ===============================================================-->
 <p align="center" >
- <a href="https://developer-shourav.web.app" target="_blank"> <img  src="https://i.ibb.co/NNfm1wH/developer-shourav-github-footer-Fast.png" alt="Developer-Shourav-web-contact-banner" /> </a>
+ <a href="https://developer-shourav.web.app" target="_blank"> <img  src="https://i.ibb.co/jRCJKHc/developer-shourav-github-footer-Fast-compressed.png" alt="Developer-Shourav-web-contact-banner" /> </a>
 <p>
 
 <!-- ============================================================
@@ -303,4 +303,4 @@
                         FOOTER BANNER
 ============================================================== -->
 
-![Developer-Shourav footer grettings img](https://i.ibb.co/bsPLW1r/developer-shourav-github-footer.png)
+![Developer-Shourav footer grettings img](https://i.ibb.co/KbSpXjj/developer-shourav-github-footer-compressed.png)

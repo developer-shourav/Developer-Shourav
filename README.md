@@ -14,7 +14,7 @@
 <!-- ============================================================
                       PROFILE BANNER IMAGE
 ============================================================== -->
-![Developer-shourav-Banner](https://i.ibb.co/qjDQnFQ/developer-shourav-ghithub-banner.png)
+![Developer-shourav-Banner](https://i.ibb.co/VJbgYZC/developer-shourav-ghithub-banner-compressed.png)
 
 
 <!-- ============================================================
@@ -62,20 +62,20 @@
   resume</a>
 
 <!-- ============================================================
-                   MY CONTACT INFORMTION
+                   MY CONTACT INFORMATION
 ============================================================== -->
 
 ## Connect with me:
 
 <p align="center"> 
-<a href="https://developer-shourav.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/60/null/domain.png" alt="https://developer-shourav.web.app" /></a>
-<a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/fluency/60/null/linkedin-circled.png" alt="Linkedin-icon" /></a>
-<a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/60/undefined/mail.png" alt="mailto:developer.shourav1@gmail.com" /></a>
-<a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/60/undefined/whatsapp--v1.png" alt="https://wa.me/+8801932376388" /></a>
-<a href="https://join.skype.com/invite/pem7MobNeCzH" target="_blank"><img src="https://img.icons8.com/color/60/undefined/skype--v1.png" alt="https://join.skype.com/invite/pem7MobNeCzH" /></a>
-<a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/60/null/telegram-app--v1.png" alt="https://telegram.me/Developer_Shourav" /></a>
-<a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/undefined/facebook-messenger--v1.png" alt="https://m.me/developer.shourav" /></a>
-<a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/60/null/facebook-new.png" alt="Facebook-icon" /></a>
+<a href="https://developer-shourav.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/null/domain.png" height="60" width="60" alt="https://developer-shourav.web.app" /></a>
+<a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>
+<a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/undefined/mail.png" height="60" width="60" alt="mailto:developer.shourav1@gmail.com" /></a>
+<a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/100/undefined/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801932376388" /></a>
+<a href="https://join.skype.com/invite/pem7MobNeCzH" target="_blank"><img src="https://img.icons8.com/color/100/undefined/skype--v1.png" height="60" width="60" alt="https://join.skype.com/invite/pem7MobNeCzH" /></a>
+<a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/100/null/telegram-app--v1.png" height="60" width="60" alt="https://telegram.me/Developer_Shourav" /></a>
+<a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/undefined/facebook-messenger--v1.png" height="60" width="60" alt="https://m.me/developer.shourav" /></a>
+<a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/null/facebook-new.png" height="60" width="60" alt="Facebook-icon" /></a>
 </p> 
 
 <!-- ============================================================
@@ -284,7 +284,7 @@
                        FIRST FOOTER BANNER
 ===============================================================-->
 <p align="center" >
- <a href="https://developer-shourav.web.app" target="_blank"> <img  src="https://i.ibb.co/NNfm1wH/developer-shourav-github-footer-Fast.png" alt="Developer-Shourav-web-contact-banner" /> </a>
+ <a href="https://developer-shourav.web.app" target="_blank"> <img  src="https://i.ibb.co/jRCJKHc/developer-shourav-github-footer-Fast-compressed.png" alt="Developer-Shourav-web-contact-banner" /> </a>
 <p>
 
 <!-- ============================================================
@@ -303,4 +303,4 @@
                         FOOTER BANNER
 ============================================================== -->
 
-![Developer-Shourav footer grettings img](https://i.ibb.co/bsPLW1r/developer-shourav-github-footer.png)
+![Developer-Shourav footer grettings img](https://i.ibb.co/KbSpXjj/developer-shourav-github-footer-compressed.png)

@@ -285,13 +285,13 @@
 <!--============================================================
                        Educational Background Section
 ===============================================================-->
-
+## Education
 <details>
   <summary style="font-size:1.5em;">📃 &nbsp;Academic Background</summary>
 
 <br>
 
-## Education
+
 
 <img align="right" width="70px" src="https://i.ibb.co/Mg1QP5K/university.png" />
 

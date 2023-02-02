@@ -161,7 +161,7 @@
     />
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://i.ibb.co/x8NdwGZ/nextjs.png"
+      src="https://i.ibb.co/N95KJjd/nextjs-original.png"
       alt="nextjs"
       width="60"
       height="60"
@@ -190,7 +190,7 @@
   </a>
   <a href="https://www.github.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://i.ibb.co/DgLNbL4/github-original-wordmark.png"
+      src="https://i.ibb.co/3Nmd776/github-original-wordmark.png"
       alt="github"
       width="60"
       height="60"

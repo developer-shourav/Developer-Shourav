@@ -146,7 +146,7 @@
     />
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://blog.leonhassan.co.uk/content/images/2019/01/react-1.svg"
+      src="https://i.ibb.co/5WK7yWC/react-native.png"
       alt="react native"
       width="60"
       height="60"

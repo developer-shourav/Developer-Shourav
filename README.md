@@ -287,7 +287,7 @@
 ===============================================================-->
 ## Education
 <details>
-  <summary style="font-size:1.5em;">📃 &nbsp;Academic Background</summary>
+  <summary style="font-size:1.5em;">📃 &nbsp;Academic Qualification</summary>
 
 <br>
 

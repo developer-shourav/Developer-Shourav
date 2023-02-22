@@ -286,7 +286,7 @@
                        Educational Background Section
 ===============================================================-->
 ## Education
-<details>
+<details open>
   <summary style="font-size:1.5em;">📃 &nbsp;Academic Qualification</summary>
 
 <br>

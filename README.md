@@ -42,19 +42,13 @@
 ============================================================== -->
 
 
-- 🔭 I’m currently working on [ModileZone BD](https://mobilezone-bd.web.app/)
-
 - 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on [Aladin Tour & Travel](https://aladin-tour-and-travel-7dbec.web.app/)
-
-- 🤝 I’m looking for help with [Mukta Dental Care](https://muckta-dental-care-by-shourav-com.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://developer-shourav.web.app](https://developer-shourav.web.app/)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/developer-shourav)
 
-- 💬 Ask me about ***React***
+- 💬 Ask me about ***JavaScript***
 
 - 📫 How to reach me <a href="mailto:developer.shourav1@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
 

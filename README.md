@@ -331,4 +331,4 @@
                         FOOTER BANNER
 ============================================================== -->
 
-![Developer-Shourav footer grettings img](https://i.ibb.co/KbSpXjj/developer-shourav-github-footer-compressed.png)
+![Developer-Shourav footer grettings img](./img/developer-shourav-github-footer-compressed.png)

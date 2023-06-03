@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://developer-shourav.web.app" target="_blank"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=developer-shourav&theme=radical"
+      src="https://github-profile-trophy.vercel.app/?username=developer-shourav&row=1&column=5&theme=radical"
       alt="developer-shourav"
   /></a>
 </p>

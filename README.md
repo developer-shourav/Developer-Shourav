@@ -3,7 +3,7 @@
                              HEADING
 ============================================================== -->
 <h1 align="center"> <img
-      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there... I am Shourav Raj <img
+      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there... I am Shourav Rajbongshi <img
       src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h1>
 
 <!-- ============================================================

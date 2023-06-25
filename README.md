@@ -92,45 +92,53 @@
       alt="css3"
       width="60"
       height="60"
-    />
+    /></a>
     <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/100/null/javascript--v1.png"alt="javaScript"
       width="60"
       height="60"/>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
+     </a>
+  <!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
     <img src="https://img.icons8.com/color/100/null/typescript.png"
     alt="typescript"
       width="60"
       height="60"
     />
-  </a>
+  </a> -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/100/null/bootstrap.png"alt="Bootstrap"
       width="60"
       height="60"/>
   </a>
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+<!--    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="sass"
       width="60"
       height="60"
     />
-  </a>
+  </a> -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/480px-Tailwind_CSS_Logo.svg.png"
       alt="tailwind"
       width="60"
       height="60"
+    /></a>
+<a href="https://daisyui.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://i.ibb.co/MPVRmFv/daisyui.png"
+      alt="daisy UI"
+      width="60"
+      height="60"
     />
   </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://mui.com/" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/100/null/material-ui.png"
    alt="materialUI"
       width="60"
       height="60"/>
-  </a>
+  </a> -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -138,43 +146,53 @@
       width="60"
       height="60"
     />
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+   </a>
+  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
+    <img
+      src="https://i.ibb.co/kJ7bMDx/react-route.png"
+      alt="react router"
+      width="60"
+      height="60"
+    />
+   </a>
+<!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/5WK7yWC/react-native.png"
       alt="react native"
       width="60"
       height="60"
     />
-  </a>
- <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+  </a> -->
+<!--  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
       width="60"
       height="60"
     />
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/N95KJjd/nextjs-original.png"
       alt="nextjs"
       width="60"
       height="60"
-    />
+    /></a> -->
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://img.icons8.com/fluency/144/null/node-js.png"
       alt="nodejs"
       width="60"
       height="60"
-    />
+    /> </a>
      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/DRCBB60/express.png"
       alt="expressjs"
       width="60"
       height="60"
-    />
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    /> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
      src="https://img.icons8.com/color/144/null/mongodb.png"
       alt="mongodb"
@@ -234,6 +252,15 @@
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
+      width="60"
+      height="60"
+    />
+  </a>
+  </a>
+   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://i.ibb.co/TYH7xdd/vercel.png"
+      alt="Vercel logo"
       width="60"
       height="60"
     />

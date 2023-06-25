@@ -129,8 +129,8 @@
     <img
       src="https://i.ibb.co/MPVRmFv/daisyui.png"
       alt="daisy UI"
-      width="60"
-      height="60"
+      width="110"
+      height="45"
     />
   </a>
 <!--   <a href="https://mui.com/" target="_blank" rel="noreferrer">

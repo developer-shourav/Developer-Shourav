@@ -314,19 +314,19 @@
 
 
 
-<img align="right" width="70px" src="https://i.ibb.co/Mg1QP5K/university.png" />
+<img align="right" width="70px" src="./img/university.png" />
 
 - 📖 **&nbsp;Bachelor of Business Administration**\
 📆 &nbsp;2020 - 2024\
 📍 **&nbsp;National University Of Bangladesh** -  Dhaka-1320, Bangladesh
 
-<img align="right" width="70px" src="https://i.ibb.co/jbTyX7c/college.png" />
+<img align="right" width="70px" src="./img/college.png" />
 
 - 📖 **&nbsp;HSC**\
 📆 2018 - 2020\
 📍 **Government Doar Nawabgonj College and University** - Nawabgonj, Dhaka, Bangladesh
 
-<img align="right" width="70px" src="https://i.ibb.co/t3kRdjZ/school.png" />
+<img align="right" width="70px" src="./img/school.png" />
 
 - 📖 **&nbsp;SSC**\
 📆 &nbsp;2017 - 2018\

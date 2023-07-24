@@ -120,17 +120,17 @@
   </a> -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/480px-Tailwind_CSS_Logo.svg.png"
+      src="./img/skill-icon/tailwind.png"
       alt="tailwind"
       width="60"
-      height="60"
+      height="40"
     /></a>
 <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/MPVRmFv/daisyui.png"
       alt="daisy UI"
-      width="110"
-      height="45"
+      width="100"
+      height="40"
     />
   </a>
 <!--   <a href="https://mui.com/" target="_blank" rel="noreferrer">

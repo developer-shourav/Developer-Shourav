@@ -147,6 +147,14 @@
       height="60"
     />
    </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="./img/skill-icon/vite.png"
+      alt="vite"
+      width="60"
+      height="60"
+    />
+   </a>
   <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/kJ7bMDx/react-route.png"

@@ -242,7 +242,7 @@
   </a>
    <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://i.ibb.co/W3SRnN0/yarn-full.png"
+      src="./img/skill-icon/yarn-full.png"
       alt="yarn logo"
       width="100"
       height="50"

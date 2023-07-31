@@ -354,7 +354,7 @@
                 DEVELOPER SHOURAV'S GITHUB STATS
 ============================================================== -->
 <p align="center" >
- <a href="https://developer-shourav.web.app" target="_blank"> <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" /> </a>
+ <a href="https://developer-shourav.web.app" target="_blank">  </a>
 <p>
 <!-- ============================================================
                 DEVELOPER SHOURAV'S GITHUB STREAK
@@ -362,6 +362,12 @@
 <p align="center" >
  <a  href="https://developer-shourav.web.app" target="_blank" > <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" /> </a>
 <p>
+
+<p align="center" >
+ <img   src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" />
+<p>
+
 <!-- ============================================================
                         FOOTER BANNER
 ============================================================== -->

@@ -364,8 +364,8 @@
 <p>
 
 <p align="center" >
- <img   src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" />
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" />
+ <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" />
+ <img  width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" />
 <p>
 
 <!-- ============================================================

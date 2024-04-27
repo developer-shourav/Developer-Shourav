@@ -171,21 +171,21 @@
       height="60"
     />
   </a> -->
-<!--  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+ <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
       width="60"
       height="60"
     />
-  </a> -->
-<!--     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/N95KJjd/nextjs-original.png"
       alt="nextjs"
       width="60"
       height="60"
-    /></a> -->
+    /></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://img.icons8.com/fluency/144/null/node-js.png"
@@ -311,6 +311,29 @@
 
 
 <!--============================================================
+                      Experience Section
+===============================================================-->
+## Experience
+
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/SecondCom.jpg" />
+
+**<span style="font-size:18px; ">💻 Frontend Developer (Next.Js)</span>**\
+**🏢 RedRose Corporation · Full-time**\
+📆 Dec 2023 - Present\
+📍 Sonir Akhra, Dhaka · Remote
+
+
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/firstCom.jpeg" />
+
+**<span style="font-size:18px;">💻 Frontend Developer (React.Js)</span>**\
+**🏢 IONIC Corporation · Full-time**\
+📆 Sep 2023 - Dec 2023\
+📍 Proschim Rayarbag, Jattrabari, Dhaka-1362 · On-site
+
+
+
+
+<!--============================================================
                        Github State Section
 ===============================================================-->
 ## Github Stats
@@ -342,7 +365,7 @@
 <img align="right" width="70px" src="./img/college.png" />
 
 - 📖 **&nbsp;HSC**\
-📆 2018 - 2020\
+📆 &nbsp;2018 - 2020\
 📍 **Government Doar Nawabgonj College and University** - Nawabgonj, Dhaka, Bangladesh
 
 <img align="right" width="70px" src="./img/school.png" />

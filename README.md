@@ -322,7 +322,7 @@
 📆 Dec 2023 - Present\
 📍 Sonir Akhra, Dhaka · Remote
 
-<p> </p>
+<p style="margin:10px 0;"> </p>
 
 <img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/firstCom.png" />
 

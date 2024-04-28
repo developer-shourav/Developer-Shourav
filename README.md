@@ -315,7 +315,7 @@
 ===============================================================-->
 ## Experience
 
-<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/SecondCom.jpg" />
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/SecondCom.png" />
 
 **<span style="font-size:18px; ">💻 Frontend Developer (Next.Js)</span>**\
 **🏢 RedRose Corporation · Full-time**\
@@ -323,7 +323,7 @@
 📍 Sonir Akhra, Dhaka · Remote
 
 
-<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/firstCom.jpeg" />
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/firstCom.png" />
 
 **<span style="font-size:18px;">💻 Frontend Developer (React.Js)</span>**\
 **🏢 IONIC Corporation · Full-time**\

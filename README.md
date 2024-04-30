@@ -78,26 +78,22 @@
 
 ## Languages and Tools:
 <p align="center">
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
+ <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
+      title="html5"
       width="60"
       height="60"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
+  />
+<img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
       width="60"
       height="60"
-    /></a>
-    <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/100/null/javascript--v1.png"alt="javaScript"
+/>
+<img src="https://img.icons8.com/color/100/null/javascript--v1.png"alt="javaScript"
       width="60"
       height="60"/>
-     </a>
   <!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
     <img src="https://img.icons8.com/color/100/null/typescript.png"
     alt="typescript"
@@ -105,11 +101,9 @@
       height="60"
     />
   </a> -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/100/null/bootstrap.png"alt="Bootstrap"
+<img src="https://img.icons8.com/color/100/null/bootstrap.png"alt="Bootstrap"
       width="60"
       height="60"/>
-  </a>
 <!--    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -118,51 +112,39 @@
       height="60"
     />
   </a> -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
+ <img
       src="./img/skill-icon/tailwind.png"
       alt="tailwind"
       width="60"
-      height="40"
-    /></a>
-<a href="https://daisyui.com/" target="_blank" rel="noreferrer">
-    <img
+      height="40"/>
+<img
       src="https://i.ibb.co/MPVRmFv/daisyui.png"
       alt="daisy UI"
       width="100"
       height="40"
     />
-  </a>
 <!--   <a href="https://mui.com/" target="_blank" rel="noreferrer">
    <img src="https://img.icons8.com/color/100/null/material-ui.png"
    alt="materialUI"
       width="60"
       height="60"/>
   </a> -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
+<img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
       width="60"
       height="60"
-    />
-   </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img
+/>
+<img
       src="./img/skill-icon/vite.png"
       alt="vite"
       width="60"
-      height="60"
-    />
-   </a>
-  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
-    <img
+      height="60"/>
+<img
       src="https://i.ibb.co/kJ7bMDx/react-route.png"
       alt="react router"
       width="60"
-      height="60"
-    />
-   </a>
+      height="60"/>
 <!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/5WK7yWC/react-native.png"
@@ -171,148 +153,113 @@
       height="60"
     />
   </a> -->
- <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
+ <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
       width="60"
       height="60"
     />
-  </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
+ <img
       src="https://i.ibb.co/N95KJjd/nextjs-original.png"
       alt="nextjs"
       width="60"
-      height="60"
-    /></a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
+      height="60"/>
+ <img
       src="https://img.icons8.com/fluency/144/null/node-js.png"
       alt="nodejs"
       width="60"
       height="60"
-    /> </a>
-     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img
+    />
+ <img
       src="https://i.ibb.co/DRCBB60/express.png"
       alt="expressjs"
       width="60"
       height="60"
-    /> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
+    />
+<img
      src="https://img.icons8.com/color/144/null/mongodb.png"
       alt="mongodb"
       width="60"
-      height="60"
-    />
-  </a>
-  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-    <img
+      height="60"/>
+<img
       src="https://i.ibb.co/3Nmd776/github-original-wordmark.png"
       alt="github"
       width="60"
       height="60"
     />
-  </a> 
-  <a href="https://developer-shourav" target="_blank" rel="noreferrer">
-    <img
+<img
       src="https://i.ibb.co/1z7FSvN/makdown.png"
       alt="Readme.md icons"
       width="60"
       height="70"
     />  
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
+<img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
       width="60"
       height="60"
     />
-  </a>
-   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img
+<img
       src="https://img.icons8.com/color/144/null/visual-studio-code-2019.png"
       alt="visualstudio_code"
       width="60"
       height="60"
     />
-  </a>
-  <img
+<img
       src="./img/skill-icon/postman.png"
       alt="Postman"
       width="60"
       height="60"
    />
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img
+<img
       src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
       alt="npm"
       width="50"
       height="50"
     />
-  </a>
-   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-    <img
+<img
       src="./img/skill-icon/yarn-full.png"
       alt="yarn logo"
       width="100"
       height="50"
     />
-  </a>
-   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
+<img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
       width="60"
       height="60"
     />
-  </a>
-  </a>
-   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img
+<img
       src="https://i.ibb.co/TYH7xdd/vercel.png"
       alt="Vercel logo"
       width="60"
       height="60"
     />
-  </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+ <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
   alt="netlify"
       width="60"
       height="60"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
+<img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
       alt="heroku"
       width="60"
       height="55"
     />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/100/null/adobe-photoshop--v1.png" alt="photoshop"
+<img src="https://img.icons8.com/color/100/null/adobe-photoshop--v1.png" alt="photoshop"
       width="60"
       height="60"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
+ <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
       width="50"
       height="50"
     />
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img
+ <img
        src="https://img.icons8.com/fluency/144/null/canva.png"
       alt="canva"
       width="60"
       height="60"
     />
-    </a>
 </p>
 
 

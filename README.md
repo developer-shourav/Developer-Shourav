@@ -240,6 +240,12 @@
       height="60"
     />
   </a>
+  <img
+      src="./img/skill-icon/postman.png"
+      alt="Postman"
+      width="60"
+      height="60"
+   />
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"

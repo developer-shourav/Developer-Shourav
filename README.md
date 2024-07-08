@@ -97,13 +97,13 @@
       title="JavaScript"
       width="60"
       height="60"/>
-  <!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
     <img src="https://img.icons8.com/color/100/null/typescript.png"
     alt="typescript"
       width="60"
       height="60"
     />
-  </a> -->
+  </a>
 <img src="https://img.icons8.com/color/100/null/bootstrap.png"
       alt="Bootstrap"
       title="Bootstrap"

@@ -298,11 +298,20 @@
 ===============================================================-->
 ## Experience
 
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/thirdCom.png" />
+
+**<span style="font-size:18px; ">💻 MERN Stack Developer</span>**\
+**🏢 Bigmod Technologies · Full-time**\
+📆 Jun 2024 - Present\
+📍 Holding # 457, DIT Road, 3rd Floor, West Rampura, Dhaka-1219.
+
+<p style="margin:10px 0;"> </p>
+
 <img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/SecondCom.png" />
 
 **<span style="font-size:18px; ">💻 Frontend Developer (Next.Js)</span>**\
 **🏢 RedRose Corporation · Full-time**\
-📆 Dec 2023 - Present\
+📆 Dec 2023 - Aug 2024\
 📍 Sonir Akhra, Dhaka · Remote
 
 <p style="margin:10px 0;"> </p>

@@ -332,7 +332,7 @@
 ## Github Stats
 
 <p  align="center" >
- <img  width="46%"  src="https://shouravs-github-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical&cache_seconds=1800" alt="Developer-Shourav github status" />
+ <img  width="46%"  src="https://shouravs-github-stats.vercel.app/api?username=developer-shourav&show_icons=true&include_all_commits=true&theme=radical" alt="Developer-Shourav github status" />
  <img  width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" />
 <p>
 

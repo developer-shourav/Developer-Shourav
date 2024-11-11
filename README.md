@@ -298,11 +298,20 @@
 ===============================================================-->
 ## Experience
 
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/fourthCom.png" />
+
+**<span style="font-size:18px; ">💻 Frontend Developer</span>**\
+**🏢 Shothik AI · Full-time**\
+📆 Oct 2024 - Present\
+📍 Romask Tower, Karwan Bazar, Tejgaon, Dhaka – 1215, Bangladesh · Remote
+
+<p style="margin:10px 0;"> </p>
+
 <img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/thirdCom.png" />
 
 **<span style="font-size:18px; ">💻 MERN Stack Developer</span>**\
 **🏢 Bigmod Technologies · Full-time**\
-📆 Apr 2024 - Present\
+📆 Apr 2024 - Oct 2024\
 📍 Holding # 457, DIT Road, 3rd Floor, West Rampura, Dhaka-1219.
 
 <p style="margin:10px 0;"> </p>
@@ -320,7 +329,7 @@
 
 **<span style="font-size:18px;">💻 Frontend Developer (React.Js)</span>**\
 **🏢 IONIC Corporation · Full-time**\
-📆 Jun 2023 - Dec 2023\
+📆 Sep 2023 - Dec 2023\
 📍 Proschim Rayarbag, Jattrabari, Dhaka-1362 · On-site
 
 

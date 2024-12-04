@@ -311,7 +311,7 @@
 
 **<span style="font-size:18px; ">💻 MERN Stack Developer</span>**\
 **🏢 Bigmod Technologies · Full-time**\
-📆 Apr 2024 - Oct 2024\
+📆 Jun 2024 - Oct 2024\
 📍 Holding # 457, DIT Road, 3rd Floor, West Rampura, Dhaka-1219.
 
 <p style="margin:10px 0;"> </p>
@@ -320,7 +320,7 @@
 
 **<span style="font-size:18px; ">💻 Frontend Developer (Next.Js)</span>**\
 **🏢 RedRose Corporation · Full-time**\
-📆 Nov 2023 - Aug 2024\
+📆 Dec 2023 - Sep 2024\
 📍 Sonir Akhra, Dhaka · Remote
 
 <p style="margin:10px 0;"> </p>

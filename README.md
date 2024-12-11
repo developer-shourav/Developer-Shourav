@@ -197,6 +197,24 @@
       width="60"
       height="60"/>
 <img
+     src="./img/skill-icon/mongoose.png"
+      alt="Mongoose"
+      title="Mongoose"
+      width="90"
+      height="60"/>
+<img
+     src="./img/skill-icon/joi.png"
+      alt="Joi Validation"
+      title="Joi Validation"
+      width="60"
+      height="65"/>
+<img
+     src="./img/skill-icon/zod.png"
+      alt="Zod Validation"
+      title="Zod Validation"
+      width="60"
+      height="55"/>
+<img
       src="https://i.ibb.co/3Nmd776/github-original-wordmark.png"
       alt="github"
       title="Github"

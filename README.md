@@ -171,9 +171,22 @@
       height="60"
     />
  <img
-      src="https://i.ibb.co/N95KJjd/nextjs-original.png"
+      src="./img/skill-icon/zustand.png"
+      alt="zustand"
+      title="zustand"
+      width="70"
+      height="60"
+    />
+ <img
+      src="./img/skill-icon/NextJs.png"
       alt="nextjs"
       title="Next.js"
+      width="60"
+      height="60"/>
+ <img
+      src="./img/skill-icon/TanStackQuery.png"
+      alt="TanStackQuery"
+      title="TanStackQuery"
       width="60"
       height="60"/>
  <img

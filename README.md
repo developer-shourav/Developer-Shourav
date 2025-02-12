@@ -14,7 +14,7 @@
 <!-- ============================================================
                       PROFILE BANNER IMAGE
 ============================================================== -->
-<img src="https://i.ibb.co/VJbgYZC/developer-shourav-ghithub-banner-compressed.png" alt="Developer Shourav Banner" >
+![Developer Shourav Banner](./img/banner/developer-shourav-ghithub-banner-compressed.png)
 
 
 <!-- ============================================================

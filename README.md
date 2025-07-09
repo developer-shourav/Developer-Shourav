@@ -14,7 +14,7 @@
 <!-- ============================================================
                       PROFILE BANNER IMAGE
 ============================================================== -->
-![Developer Shourav Banner](./img/banner/developer-shourav-ghithub-banner-compressed.png)
+![Developer Shourav Banner](./img/banner/Shourav-Rajbongshi-Frontend-Developer-cover-info.jpg)
 
 
 <!-- ============================================================

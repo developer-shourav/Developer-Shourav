@@ -42,13 +42,13 @@
 ============================================================== -->
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://developer-shourav.vercel.app](https://developer-shourav.vercel.app/)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/developer-shourav)
 
-- 💬 Ask me about ***JavaScript***
+- 💬 Ask me about ***Frontend Development***
 
 - 📫 How to reach me <a href="mailto:developer.shourav1@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
 

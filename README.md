@@ -9,7 +9,7 @@
 <!-- ============================================================
                              TITLE
 =============================================================== -->
-## <h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=D41953&center=true&width=410&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer)](https://developer-shourav.web.app)</h2>
+## <h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=D41953&center=true&width=410&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer)](https://developer-shourav.vercel.app)</h2>
       
 <!-- ============================================================
                       PROFILE BANNER IMAGE
@@ -21,7 +21,7 @@
                         TROFFES
 ============================================================== -->
 <p align="center">
-  <a href="https://developer-shourav.web.app" target="_blank"
+  <a href="https://developer-shourav.vercel.app" target="_blank"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=developer-shourav&row=1&column=5&theme=radical"
       alt="developer-shourav"
@@ -44,7 +44,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://developer-shourav.web.app](https://developer-shourav.web.app/)
+- 👨‍💻 All of my projects are available at [https://developer-shourav.vercel.app](https://developer-shourav.vercel.app/)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/developer-shourav)
 
@@ -62,7 +62,7 @@
 ## Connect with me:
 
 <p align="center"> 
-<a href="https://developer-shourav.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/null/domain.png" height="60" width="60" alt="https://developer-shourav.web.app" /></a>
+<a href="https://developer-shourav.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/null/domain.png" height="60" width="60" alt="https://developer-shourav.vercel.app" /></a>
 <a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>
 <a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/undefined/mail.png" height="60" width="60" alt="mailto:developer.shourav1@gmail.com" /></a>
 <a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/100/undefined/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801932376388" /></a>
@@ -421,13 +421,13 @@
                 DEVELOPER SHOURAV'S GITHUB STATS
 ============================================================== -->
 <!-- <p align="center" >
- <a href="https://developer-shourav.web.app" target="_blank">  </a>
+ <a href="https://developer-shourav.vercel.app" target="_blank">  </a>
 <p> -->
 <!-- ============================================================
                 DEVELOPER SHOURAV'S GITHUB STREAK
 ============================================================== -->
 <!-- <p align="center" >
- <a  href="https://developer-shourav.web.app" target="_blank" > <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" /> </a>
+ <a  href="https://developer-shourav.vercel.app" target="_blank" > <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" /> </a>
 <p> -->
 
 <!-- <p  align="center" >

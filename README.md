@@ -352,7 +352,7 @@
 **<span style="font-size:18px; ">💻 Frontend Developer (Next.Js)</span>**\
 **🏢 RedRose Corporation · Full-time**\
 📆 Dec 2023 - Sep 2024\
-📍 Sonir Akhra, Dhaka · Remote
+📍 Sonir Akhra, Dhaka · HyBrid
 
 <p style="margin:10px 0;"> </p>
 

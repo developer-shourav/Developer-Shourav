@@ -329,11 +329,20 @@
 ===============================================================-->
 ## Experience
 
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/fifthCom.png" />
+
+**<span style="font-size:18px; ">💻 AI & Software Engineer</span>**\
+**🏢 Butterfly Digital · Full-time**\
+📆 Jul 2025 - present\
+📍 Toronto, Canada
+
+<p style="margin:10px 0;"> </p>
+
 <img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/thirdCom.png" />
 
 **<span style="font-size:18px; ">💻 MERN Stack Developer</span>**\
 **🏢 Bigmod Technologies · Full-time**\
-📆 Jun 2024 - Present\
+📆 Jun 2024 - Jul 2025\
 📍 Holding # 457, DIT Road, 3rd Floor, West Rampura, Dhaka-1219.
 
 <p style="margin:10px 0;"> </p>
@@ -347,10 +356,10 @@
 
 <p style="margin:10px 0;"> </p>
 
-<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/SecondCom.png" />
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/SecondCom-2.png" />
 
 **<span style="font-size:18px; ">💻 Frontend Developer (Next.Js)</span>**\
-**🏢 RedRose Corporation · Full-time**\
+**🏢 Zonely · Full-time**\
 📆 Dec 2023 - Sep 2024\
 📍 Sonir Akhra, Dhaka · Hybrid
 

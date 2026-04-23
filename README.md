@@ -62,14 +62,14 @@
 ## Connect with me:
 
 <p align="center"> 
-<a href="https://developer-shourav.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/null/domain.png" height="60" width="60" alt="https://developer-shourav.vercel.app" /></a>
-<a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>
-<a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/undefined/mail.png" height="60" width="60" alt="mailto:developer.shourav1@gmail.com" /></a>
-<a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/100/undefined/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801932376388" /></a>
-<a href="https://join.skype.com/invite/pem7MobNeCzH" target="_blank"><img src="https://img.icons8.com/color/100/undefined/skype--v1.png" height="60" width="60" alt="https://join.skype.com/invite/pem7MobNeCzH" /></a>
-<a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/100/null/telegram-app--v1.png" height="60" width="60" alt="https://telegram.me/Developer_Shourav" /></a>
-<a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/undefined/facebook-messenger--v1.png" height="60" width="60" alt="https://m.me/developer.shourav" /></a>
-<a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/null/facebook-new.png" height="60" width="60" alt="Facebook-icon" /></a>
+<a href="https://developer-shourav.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/domain.png" height="60" width="60" alt="https://developer-shourav.vercel.app" /></a>
+<a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/color/100/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>
+<a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/mail.png" height="60" width="60" alt="mailto:developer.shourav1@gmail.com" /></a>
+<a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/100/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801932376388" /></a>
+<a href="https://join.skype.com/invite/pem7MobNeCzH" target="_blank"><img src="https://img.icons8.com/color/100/skype--v1.png" height="60" width="60" alt="https://join.skype.com/invite/pem7MobNeCzH" /></a>
+<a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/100/telegram-app--v1.png" height="60" width="60" alt="https://telegram.me/Developer_Shourav" /></a>
+<a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/facebook-messenger--v1.png" height="60" width="60" alt="https://m.me/developer.shourav" /></a>
+<a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/facebook-new.png" height="60" width="60" alt="Facebook-icon" /></a>
 </p> 
 
 <!-- ============================================================
@@ -92,19 +92,19 @@
       width="60"
       height="60"
 />
-<img src="https://img.icons8.com/color/100/null/javascript--v1.png"
+<img src="https://img.icons8.com/color/100/javascript--v1.png"
       alt="javaScript"
       title="JavaScript"
       width="60"
       height="60"/>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
-    <img src="https://img.icons8.com/color/100/null/typescript.png"
+    <img src="https://img.icons8.com/color/100/typescript.png"
     alt="typescript"
       width="60"
       height="60"
     />
   </a>
-<img src="https://img.icons8.com/color/100/null/bootstrap.png"
+<img src="https://img.icons8.com/color/100/bootstrap.png"
       alt="Bootstrap"
       title="Bootstrap"
       width="60"
@@ -131,7 +131,7 @@
       height="40"
     />
 <!--   <a href="https://mui.com/" target="_blank" rel="noreferrer">
-   <img src="https://img.icons8.com/color/100/null/material-ui.png"
+   <img src="https://img.icons8.com/color/100/material-ui.png"
    alt="materialUI"
       width="60"
       height="60"/>
@@ -190,7 +190,7 @@
       width="60"
       height="60"/>
  <img
-      src="https://img.icons8.com/fluency/144/null/node-js.png"
+      src="https://img.icons8.com/fluency/144/node-js.png"
       alt="nodejs"
       title="Node.js"
       width="60"
@@ -204,7 +204,7 @@
       height="60"
     />
 <img
-     src="https://img.icons8.com/color/144/null/mongodb.png"
+     src="https://img.icons8.com/color/144/mongodb.png"
       alt="mongodb"
       title="MongoDB"
       width="60"
@@ -249,7 +249,7 @@
       height="60"
     />
 <img
-      src="https://img.icons8.com/color/144/null/visual-studio-code-2019.png"
+      src="https://img.icons8.com/color/144/visual-studio-code-2019.png"
       alt="VS Code"
       title="VS Code"
       width="60"
@@ -290,7 +290,7 @@
       width="60"
       height="60"
     />
- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+ <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
   alt="netlify"
   title="Netlify"
       width="60"
@@ -302,7 +302,7 @@
       width="60"
       height="55"
     />
-<img src="https://img.icons8.com/color/100/null/adobe-photoshop--v1.png" 
+<img src="https://img.icons8.com/color/100/adobe-photoshop--v1.png" 
       alt="photoshop"
       title="PhotoShop"
       width="60"
@@ -315,7 +315,7 @@
       height="50"
     />
  <img
-       src="https://img.icons8.com/fluency/144/null/canva.png"
+       src="https://img.icons8.com/fluency/144/canva.png"
       alt="canva"
       title="Canva"
       width="60"

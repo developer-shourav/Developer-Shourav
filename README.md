@@ -61,16 +61,7 @@
 
 ## Connect with me:
 
-<div align="center">
-  <a href="https://developer-shourav.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/domain.png" height="60" width="60" alt="https://developer-shourav.vercel.app" /></a>
-  <a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/color/100/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>
-  <a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/mail.png" height="60" width="60" alt="mailto:developer.shourav1@gmail.com" /></a>
-  <a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/100/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801932376388" /></a>
-  <a href="https://join.skype.com/invite/pem7MobNeCzH" target="_blank"><img src="https://img.icons8.com/color/100/skype--v1.png" height="60" width="60" alt="https://join.skype.com/invite/pem7MobNeCzH" /></a>&nbsp;
-  <a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/100/telegram-app--v1.png" height="60" width="60" alt="https://telegram.me/Developer_Shourav" /></a>&nbsp;
-  <a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/facebook-messenger--v1.png" height="60" width="60" alt="https://m.me/developer.shourav" /></a>&nbsp;
-  <a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/facebook-new.png" height="60" width="60" alt="Facebook-icon" /></a>
-</div>
+<div align="center"><a href="https://developer-shourav.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/domain.png" height="60" width="60" alt="https://developer-shourav.vercel.app" /></a>&nbsp;<a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/color/100/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>&nbsp;<a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/mail.png" height="60" width="60" alt="mailto:developer.shourav1@gmail.com" /></a>&nbsp;<a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/100/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801932376388" /></a>&nbsp;<a href="https://join.skype.com/invite/pem7MobNeCzH" target="_blank"><img src="https://img.icons8.com/color/100/skype--v1.png" height="60" width="60" alt="https://join.skype.com/invite/pem7MobNeCzH" /></a>&nbsp;<a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/100/telegram-app--v1.png" height="60" width="60" alt="https://telegram.me/Developer_Shourav" /></a>&nbsp;<a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/facebook-messenger--v1.png" height="60" width="60" alt="https://m.me/developer.shourav" /></a>&nbsp;<a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/facebook-new.png" height="60" width="60" alt="Facebook-icon" /></a></div>
 
 <!-- ============================================================
                     MY SKILLS INFORMATION
@@ -78,46 +69,16 @@
 
 ## Languages and Tools:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML 5" width="60" height="60" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS 3" width="60" height="60" />&nbsp;
-  <img src="https://img.icons8.com/color/100/javascript--v1.png" alt="javaScript" title="JavaScript" width="60" height="60" />&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/100/typescript.png" alt="typescript" width="60" height="60" /></a>&nbsp;
-  <img src="https://img.icons8.com/color/100/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="60" height="60" />&nbsp;
   <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60" /></a> -->
-  <img src="./img/skill-icon/tailwind.png" alt="tailwind" title="Tailwind CSS" width="60" height="40" />&nbsp;
-  <img src="https://i.ibb.co/MPVRmFv/daisyui.png" alt="daisy UI" title="daisy UI" width="100" height="40" />&nbsp;
   <!-- <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/100/material-ui.png" alt="materialUI" width="60" height="60" /></a> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML 5" width="60" height="60" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS 3" width="60" height="60" />&nbsp;<img src="https://img.icons8.com/color/100/javascript--v1.png" alt="javaScript" title="JavaScript" width="60" height="60" />&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/100/typescript.png" alt="typescript" width="60" height="60" /></a>&nbsp;<img src="https://img.icons8.com/color/100/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="60" height="60" />&nbsp;<img src="./img/skill-icon/tailwind.png" alt="tailwind" title="Tailwind CSS" width="60" height="40" />&nbsp;<img src="https://i.ibb.co/MPVRmFv/daisyui.png" alt="daisy UI" title="daisy UI" width="100" height="40" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" width="60" height="60" />
   <br /><br />
-  <img src="./img/skill-icon/vite.png" alt="vite" title="Vite" width="60" height="60" />&nbsp;
-  <img src="https://i.ibb.co/kJ7bMDx/react-route.png" alt="react router" title="React Router" width="60" height="60" />&nbsp;
   <!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/5WK7yWC/react-native.png" alt="react native" width="60" height="60" /></a> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" width="60" height="60" />&nbsp;
-  <img src="./img/skill-icon/zustand.png" alt="zustand" title="zustand" width="70" height="60" />&nbsp;
-  <img src="./img/skill-icon/NextJs.png" alt="nextjs" title="Next.js" width="60" height="60" />&nbsp;
-  <img src="./img/skill-icon/TanStackQuery.png" alt="TanStackQuery" title="TanStackQuery" width="60" height="60" />&nbsp;
-  <img src="https://img.icons8.com/fluency/144/node-js.png" alt="nodejs" title="Node.js" width="60" height="60" />&nbsp;
-  <img src="https://i.ibb.co/DRCBB60/express.png" alt="expressjs" title="Express.js" width="60" height="60" />
+  <img src="./img/skill-icon/vite.png" alt="vite" title="Vite" width="60" height="60" />&nbsp;<img src="https://i.ibb.co/kJ7bMDx/react-route.png" alt="react router" title="React Router" width="60" height="60" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" width="60" height="60" />&nbsp;<img src="./img/skill-icon/zustand.png" alt="zustand" title="zustand" width="70" height="60" />&nbsp;<img src="./img/skill-icon/NextJs.png" alt="nextjs" title="Next.js" width="60" height="60" />&nbsp;<img src="./img/skill-icon/TanStackQuery.png" alt="TanStackQuery" title="TanStackQuery" width="60" height="60" />&nbsp;<img src="https://img.icons8.com/fluency/144/node-js.png" alt="nodejs" title="Node.js" width="60" height="60" />&nbsp;<img src="https://i.ibb.co/DRCBB60/express.png" alt="expressjs" title="Express.js" width="60" height="60" />
   <br /><br />
-  <img src="https://img.icons8.com/color/144/mongodb.png" alt="mongodb" title="MongoDB" width="60" height="60" />&nbsp;
-  <img src="./img/skill-icon/mongoose.png" alt="Mongoose" title="Mongoose" width="90" height="60" />&nbsp;
-  <img src="./img/skill-icon/joi.png" alt="Joi Validation" title="Joi Validation" width="60" height="65" />&nbsp;
-  <img src="./img/skill-icon/zod.png" alt="Zod Validation" title="Zod Validation" width="60" height="55" />&nbsp;
-  <img src="https://i.ibb.co/3Nmd776/github-original-wordmark.png" alt="github" title="Github" width="60" height="60" />&nbsp;
-  <img src="https://i.ibb.co/1z7FSvN/makdown.png" alt="Readme.md icons" title="Readme.md" width="60" height="70" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="60" height="60" />&nbsp;
-  <img src="https://img.icons8.com/color/144/visual-studio-code-2019.png" alt="VS Code" title="VS Code" width="60" height="60" />
+  <img src="https://img.icons8.com/color/144/mongodb.png" alt="mongodb" title="MongoDB" width="60" height="60" />&nbsp;<img src="./img/skill-icon/mongoose.png" alt="Mongoose" title="Mongoose" width="90" height="60" />&nbsp;<img src="./img/skill-icon/joi.png" alt="Joi Validation" title="Joi Validation" width="60" height="65" />&nbsp;<img src="./img/skill-icon/zod.png" alt="Zod Validation" title="Zod Validation" width="60" height="55" />&nbsp;<img src="https://i.ibb.co/3Nmd776/github-original-wordmark.png" alt="github" title="Github" width="60" height="60" />&nbsp;<img src="https://i.ibb.co/1z7FSvN/makdown.png" alt="Readme.md icons" title="Readme.md" width="60" height="70" />&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="60" height="60" />&nbsp;<img src="https://img.icons8.com/color/144/visual-studio-code-2019.png" alt="VS Code" title="VS Code" width="60" height="60" />
   <br /><br />
-  <img src="./img/skill-icon/postman.png" alt="Postman" title="Postman" width="60" height="60" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" title="npm" width="50" height="50" />&nbsp;
-  <img src="./img/skill-icon/yarn-full.png" alt="yarn logo" title="Yarn" width="100" height="50" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="60" height="60" />&nbsp;
-  <img src="https://i.ibb.co/TYH7xdd/vercel.png" alt="Vercel logo" title="Vercel" width="60" height="60" />&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" alt="netlify" title="Netlify" width="60" height="60" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" title="Heroku" width="60" height="55" />&nbsp;
-  <img src="https://img.icons8.com/color/100/adobe-photoshop--v1.png" alt="photoshop" title="PhotoShop" width="60" height="60" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="50" height="50" />&nbsp;
-  <img src="https://img.icons8.com/fluency/144/canva.png" alt="canva" title="Canva" width="60" height="60" />
+  <img src="./img/skill-icon/postman.png" alt="Postman" title="Postman" width="60" height="60" />&nbsp;<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" title="npm" width="50" height="50" />&nbsp;<img src="./img/skill-icon/yarn-full.png" alt="yarn logo" title="Yarn" width="100" height="50" />&nbsp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="60" height="60" />&nbsp;<img src="https://i.ibb.co/TYH7xdd/vercel.png" alt="Vercel logo" title="Vercel" width="60" height="60" />&nbsp;<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" alt="netlify" title="Netlify" width="60" height="60" />&nbsp;<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" title="Heroku" width="60" height="55" />&nbsp;<img src="https://img.icons8.com/color/100/adobe-photoshop--v1.png" alt="photoshop" title="PhotoShop" width="60" height="60" />&nbsp;<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="50" height="50" />&nbsp;<img src="https://img.icons8.com/fluency/144/canva.png" alt="canva" title="Canva" width="60" height="60" />
 </div>
 
 

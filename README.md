@@ -61,7 +61,7 @@
 
 ## Connect with me:
 
-<div align="center">
+<div>
   <a href="https://developer-shourav.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/domain.png" height="60" width="60" alt="https://developer-shourav.vercel.app" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/color/100/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>&nbsp;
   <a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/mail.png" height="60" width="60" alt="mailto:developer.shourav1@gmail.com" /></a>&nbsp;
@@ -77,7 +77,7 @@
 ============================================================== -->
 
 ## Languages and Tools:
-<div align="center">
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML 5" width="60" height="60" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS 3" width="60" height="60" />&nbsp;
   <img src="https://img.icons8.com/color/100/javascript--v1.png" alt="javaScript" title="JavaScript" width="60" height="60" />&nbsp;

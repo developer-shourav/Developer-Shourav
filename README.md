@@ -18,7 +18,7 @@
 
 
 <!-- ============================================================
-                        TROFFES
+                        TROPES
 ============================================================== -->
 <p align="center">
   <a href="https://developer-shourav.vercel.app" target="_blank"
@@ -42,13 +42,13 @@
 ============================================================== -->
 
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **System Design**
 
 - 👨‍💻 All of my projects are available at [https://developer-shourav.vercel.app](https://developer-shourav.vercel.app/)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/developer-shourav)
+- 📝 I at [LinkedIn](https://www.linkedin.com/in/developer-shourav)
 
-- 💬 Ask me about ***Frontend Development***
+- 💬 Ask me about ***Full Stack Development + AI Automation***
 
 - 📫 How to reach me <a href="mailto:developer.shourav1@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
 
@@ -197,7 +197,7 @@
     />
  <img
       src="https://i.ibb.co/DRCBB60/express.png"
-      alt="expressjs"
+      alt="express logo"
       title="Express.js"
       width="60"
       height="60"
@@ -328,7 +328,7 @@
 ===============================================================-->
 ## Experience
 
-<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/fifthCom.png" />
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/company-icon/fifthCom.png" />
 
 **<span style="font-size:18px; ">💻 AI & Software Engineer</span>**\
 **🏢 Butterfly Digital · Full-time  -(Remote)**\
@@ -337,7 +337,7 @@
 
 <p style="margin:10px 0;"> </p>
 
-<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/thirdCom.png" />
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/company-icon/thirdCom.png" />
 
 **<span style="font-size:18px; ">💻 MERN Stack Developer</span>**\
 **🏢 Bigmod Technologies · Full-time  -(Remote)**\
@@ -346,16 +346,16 @@
 
 <p style="margin:10px 0;"> </p>
 
-<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/fourthCom.png" />
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/company-icon/fourthCom.png" />
 
 **<span style="font-size:18px; ">💻 Frontend Developer</span>**\
 **🏢 Shothik AI · Full-time  -(Remote)**\
 📆 Oct 2024 - Jan 2025\
-📍 Romask Tower, Karwan Bazar, Tejgaon, Dhaka – 1215, Bangladesh
+📍 London, UK
 
 <p style="margin:10px 0;"> </p>
 
-<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/SecondCom-2.png" />
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/company-icon/SecondCom-2.png" />
 
 **<span style="font-size:18px; ">💻 Frontend Developer (Next.Js)</span>**\
 **🏢 Zonely · Full-time  -(Hybrid)**\
@@ -364,7 +364,7 @@
 
 <p style="margin:10px 0;"> </p>
 
-<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/firstCom.png" />
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/company-icon/firstCom.png" />
 
 **<span style="font-size:18px;">💻 Frontend Developer (React.Js)</span>**\
 **🏢 IONIC Corporation · Full-time -(On-site)**\
@@ -397,19 +397,19 @@
 
 
 
-<img align="right" width="70px" src="./img/university.png" />
+<img align="right" width="70px" src="./img/education-icon/university.png" />
 
 - 📖 **&nbsp;Bachelor of Business Administration**\
 📆 &nbsp;2021 - present\
 📍 **&nbsp;National University Of Bangladesh** -  Dhaka-1320, Bangladesh
 
-<img align="right" width="70px" src="./img/college.png" />
+<img align="right" width="70px" src="./img/education-icon/college.png" />
 
 - 📖 **&nbsp;HSC**\
 📆 &nbsp;2018 - 2020\
 📍 **Government Doar Nawabgonj College and University** - Nawabgonj, Dhaka, Bangladesh
 
-<img align="right" width="70px" src="./img/school.png" />
+<img align="right" width="70px" src="./img/education-icon/school.png" />
 
 - 📖 **&nbsp;SSC**\
 📆 &nbsp;2017 - 2018\
@@ -447,4 +447,4 @@
                         FOOTER BANNER
 ============================================================== -->
 
-![Developer-Shourav footer grettings img](./img/developer-shourav-github-footer-compressed.png)
+![Developer-Shourav footer greetings img](./img/footer-banner/developer-shourav-github-footer-compressed.png)

@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://developer-shourav.vercel.app" target="_blank"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=developer-shourav&row=1&column=5&theme=radical"
+      src="https://github-trophies.vercel.app/?username=developer-shourav&row=1&column=5&theme=radical"
       alt="developer-shourav"
   /></a>
 </p>
@@ -331,7 +331,7 @@
 <img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/fifthCom.png" />
 
 **<span style="font-size:18px; ">💻 AI & Software Engineer</span>**\
-**🏢 Butterfly Digital · Full-time**\
+**🏢 Butterfly Digital · Full-time  -(Remote)**\
 📆 Jul 2025 - present\
 📍 Toronto, Canada
 
@@ -340,7 +340,7 @@
 <img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/thirdCom.png" />
 
 **<span style="font-size:18px; ">💻 MERN Stack Developer</span>**\
-**🏢 Bigmod Technologies · Full-time**\
+**🏢 Bigmod Technologies · Full-time  -(Remote)**\
 📆 Jun 2024 - Jul 2025\
 📍 Holding # 457, DIT Road, 3rd Floor, West Rampura, Dhaka-1219.
 
@@ -349,27 +349,27 @@
 <img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/fourthCom.png" />
 
 **<span style="font-size:18px; ">💻 Frontend Developer</span>**\
-**🏢 Shothik AI · Full-time**\
+**🏢 Shothik AI · Full-time  -(Remote)**\
 📆 Oct 2024 - Jan 2025\
-📍 Romask Tower, Karwan Bazar, Tejgaon, Dhaka – 1215, Bangladesh · Remote
+📍 Romask Tower, Karwan Bazar, Tejgaon, Dhaka – 1215, Bangladesh
 
 <p style="margin:10px 0;"> </p>
 
 <img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/SecondCom-2.png" />
 
 **<span style="font-size:18px; ">💻 Frontend Developer (Next.Js)</span>**\
-**🏢 Zonely · Full-time**\
+**🏢 Zonely · Full-time  -(Hybrid)**\
 📆 Dec 2023 - Sep 2024\
-📍 Sonir Akhra, Dhaka · Hybrid
+📍 Sonir Akhra, Dhaka
 
 <p style="margin:10px 0;"> </p>
 
 <img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/firstCom.png" />
 
 **<span style="font-size:18px;">💻 Frontend Developer (React.Js)</span>**\
-**🏢 IONIC Corporation · Full-time**\
+**🏢 IONIC Corporation · Full-time -(On-site)**\
 📆 Sep 2023 - Dec 2023\
-📍 Proschim Rayarbag, Jattrabari, Dhaka-1362 · On-site
+📍 Proschim Rayarbag, Jattrabari, Dhaka-1362
 
 
 

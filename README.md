@@ -78,32 +78,32 @@
 ## Languages and Tools:
 <p align="center">
  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="./img/skill-icon/html.png"
       alt="html5"
       title="HTML 5"
       width="60"
       height="60"
   />
 <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      src="./img/skill-icon/css.png"
       alt="css3"
       title="CSS 3"
       width="60"
       height="60"
 />
-<img src="https://img.icons8.com/color/100/javascript--v1.png"
+<img src="./img/skill-icon/javascript.png"
       alt="javaScript"
       title="JavaScript"
       width="60"
       height="60"/>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
-    <img src="https://img.icons8.com/color/100/typescript.png"
+    <img src="./img/skill-icon/typescript.png"
     alt="typescript"
       width="60"
       height="60"
     />
   </a>
-<img src="https://img.icons8.com/color/100/bootstrap.png"
+<img src="./img/skill-icon/bootstrap.png"
       alt="Bootstrap"
       title="Bootstrap"
       width="60"
@@ -123,7 +123,7 @@
       width="60"
       height="40"/>
 <img
-      src="https://i.ibb.co/MPVRmFv/daisyui.png"
+      src="./img/skill-icon/daisyui.png"
       alt="daisy UI"
       title="daisy UI"
       width="100"
@@ -136,7 +136,7 @@
       height="60"/>
   </a> -->
 <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="./img/skill-icon/react-original.png"
       alt="react"
       title="React"
       width="60"
@@ -149,21 +149,21 @@
       width="60"
       height="60"/>
 <img
-      src="https://i.ibb.co/kJ7bMDx/react-route.png"
+      src="./img/skill-icon/react-route.png"
       alt="react router"
       title="React Router"
       width="60"
       height="60"/>
-<!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://i.ibb.co/5WK7yWC/react-native.png"
+      src="./img/skill-icon/react-native.png"
       alt="react native"
       width="60"
       height="60"
     />
-  </a> -->
+  </a>
  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      src="./img/skill-icon/redux-original.png"
       alt="redux"
       title="Redux"
       width="60"
@@ -189,21 +189,21 @@
       width="60"
       height="60"/>
  <img
-      src="https://img.icons8.com/fluency/144/node-js.png"
+      src="./img/skill-icon/node-js.png"
       alt="nodejs"
       title="Node.js"
       width="60"
       height="60"
     />
  <img
-      src="https://i.ibb.co/DRCBB60/express.png"
+      src="./img/skill-icon/express.png"
       alt="express logo"
       title="Express.js"
       width="60"
       height="60"
     />
 <img
-     src="https://img.icons8.com/color/144/mongodb.png"
+     src="./img/skill-icon/mongodb.png"
       alt="mongodb"
       title="MongoDB"
       width="60"
@@ -227,28 +227,28 @@
       width="60"
       height="55"/>
 <img
-      src="https://i.ibb.co/3Nmd776/github-original-wordmark.png"
+      src="./img/skill-icon/github-original-wordmark.png"
       alt="github"
       title="Github"
       width="60"
       height="60"
     />
 <img
-      src="https://i.ibb.co/1z7FSvN/makdown.png"
+      src="./img/skill-icon/makdown.png"
       alt="Readme.md icons"
       title="Readme.md"
       width="60"
       height="70"
     />  
 <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      src="./img/skill-icon/git.png"
       alt="git"
       title="Git"
       width="60"
       height="60"
     />
 <img
-      src="https://img.icons8.com/color/144/visual-studio-code-2019.png"
+      src="./img/skill-icon/visual-studio-code-2019.png"
       alt="VS Code"
       title="VS Code"
       width="60"
@@ -262,7 +262,7 @@
       height="60"
    />
 <img
-      src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
+      src="./img/skill-icon/npmjs-icon.png"
       alt="npm"
       title="npm"
       width="50"
@@ -276,45 +276,45 @@
       height="50"
     />
 <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      src="./img/skill-icon/firebase.png"
       alt="firebase"
       title="Firebase"
       width="60"
       height="60"
     />
 <img
-      src="https://i.ibb.co/TYH7xdd/vercel.png"
+      src="./img/skill-icon/vercel.png"
       alt="Vercel logo"
       title="Vercel"
       width="60"
       height="60"
     />
- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+ <img src="./img/skill-icon/netlify.png"
   alt="netlify"
   title="Netlify"
       width="60"
       height="60"/>
 <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      src="./img/skill-icon/heroku.png"
       alt="heroku"
       title="Heroku"
       width="60"
       height="55"
     />
-<img src="https://img.icons8.com/color/100/adobe-photoshop--v1.png" 
+<img src="./img/skill-icon/photoshop.png"
       alt="photoshop"
       title="PhotoShop"
       width="60"
       height="60"/>
  <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      src="./img/skill-icon/figma.png"
       alt="figma"
       title="Figma"
       width="50"
       height="50"
     />
  <img
-       src="https://img.icons8.com/fluency/144/canva.png"
+       src="./img/skill-icon/canva.png"
       alt="canva"
       title="Canva"
       width="60"

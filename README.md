@@ -61,11 +61,11 @@
 
 ## Connect with me:
 
-<div>
-  <a href="https://developer-shourav.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/domain.png" height="60" width="60" alt="https://developer-shourav.vercel.app" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/color/100/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>&nbsp;
-  <a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/mail.png" height="60" width="60" alt="mailto:developer.shourav1@gmail.com" /></a>&nbsp;
-  <a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/100/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801932376388" /></a>&nbsp;
+<div align="center">
+  <a href="https://developer-shourav.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/domain.png" height="60" width="60" alt="https://developer-shourav.vercel.app" /></a>
+  <a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/color/100/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>
+  <a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/mail.png" height="60" width="60" alt="mailto:developer.shourav1@gmail.com" /></a>
+  <a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/100/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801932376388" /></a>
   <a href="https://join.skype.com/invite/pem7MobNeCzH" target="_blank"><img src="https://img.icons8.com/color/100/skype--v1.png" height="60" width="60" alt="https://join.skype.com/invite/pem7MobNeCzH" /></a>&nbsp;
   <a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/100/telegram-app--v1.png" height="60" width="60" alt="https://telegram.me/Developer_Shourav" /></a>&nbsp;
   <a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/facebook-messenger--v1.png" height="60" width="60" alt="https://m.me/developer.shourav" /></a>&nbsp;
@@ -77,7 +77,7 @@
 ============================================================== -->
 
 ## Languages and Tools:
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML 5" width="60" height="60" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS 3" width="60" height="60" />&nbsp;
   <img src="https://img.icons8.com/color/100/javascript--v1.png" alt="javaScript" title="JavaScript" width="60" height="60" />&nbsp;

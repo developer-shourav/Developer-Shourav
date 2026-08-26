@@ -328,7 +328,38 @@
 ===============================================================-->
 ## Experience
 
-<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/company-icon/fifthCom.png" />
+
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/company-icon/simplif-ai-rounded.png" />
+
+**<span style="font-size:18px; ">💻 AI Software Engineer & Marketing Automation Specialist</span>**\
+**🏢 Simplif-AI · Full-time  -(Remote)**\
+📆 Jul 2025 - present\
+📍 Toronto, Canada
+
+<p style="margin:10px 0;"> </p>
+
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/company-icon/thirdCom.png" />
+
+**<span style="font-size:18px; ">💻 Full Stack Developer (MERN)</span>**\
+**🏢 Bigmod Technologies · Full-time  -(Remote)**\
+📆 Jun 2024 - Jul 2025\
+📍 West Rampura, Dhaka-1219.
+
+<p style="margin:10px 0;"> </p>
+
+
+<img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/company-icon/zonly-rounded.png" />
+
+**<span style="font-size:18px; ">💻 Frontend Developer (Next.Js)</span>**\
+**🏢 Zonely · Full-time  -(Hybrid)**\
+📆 sep 2023 - Sep 2024\
+📍 Sonir Akhra, Dhaka
+
+<p style="margin:10px 0;"> </p>
+
+
+
+<!-- <img align="left" style="margin-right:10px; border-radius: 10px;" width="90px" src="./img/company-icon/fifthCom.png" />
 
 **<span style="font-size:18px; ">💻 AI & Software Engineer</span>**\
 **🏢 Butterfly Digital · Full-time  -(Remote)**\
@@ -369,7 +400,7 @@
 **<span style="font-size:18px;">💻 Frontend Developer (React.Js)</span>**\
 **🏢 IONIC Corporation · Full-time -(On-site)**\
 📆 Sep 2023 - Dec 2023\
-📍 Jattrabari, Dhaka-1362
+📍 Jattrabari, Dhaka-1362 -->
 
 
 

@@ -431,7 +431,7 @@
 <img align="right" width="70px" src="./img/education-icon/university.png" />
 
 - 📖 **&nbsp;Bachelor of Business Administration**\
-📆 &nbsp;2021 - present\
+📆 &nbsp;2021 - 2026\
 📍 **&nbsp;National University Of Bangladesh** -  Dhaka-1320, Bangladesh
 
 <img align="right" width="70px" src="./img/education-icon/college.png" />

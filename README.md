@@ -78,6 +78,48 @@
 ## Languages and Tools:
 <p align="center">
  <img
+      src="./img/skill-icon/automation-skill-icons/n8n.png"
+      alt="n8n"
+      title="n8n"
+      width="60"
+      height="60"
+  />
+ <img
+      src="./img/skill-icon/automation-skill-icons/ghl.png"
+      alt="GHL"
+      title="GHL"
+      width="60"
+      height="60"
+  />
+ <img
+      src="./img/skill-icon/automation-skill-icons/zapire.png"
+      alt="zapire"
+      title="zapire"
+      width="60"
+      height="60"
+  />
+ <img
+      src="./img/skill-icon/automation-skill-icons/openrouter.png"
+      alt="OpenRouter"
+      title="OpenRouter"
+      width="60"
+      height="60"
+  />
+ <img
+      src="./img/skill-icon/automation-skill-icons/ai-agent.png"
+      alt="Agentic AI"
+      title="Agentic AI"
+      width="60"
+      height="60"
+  />
+ <img
+      src="./img/skill-icon/automation-skill-icons/open-ai.png"
+      alt="AI Model"
+      title="AI Model"
+      width="60"
+      height="60"
+  />
+ <img
       src="./img/skill-icon/html.png"
       alt="html5"
       title="HTML 5"
